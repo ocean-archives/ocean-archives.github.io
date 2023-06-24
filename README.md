@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 2:46 AM PT 24 June, 2023
+Last update: 2:59 AM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -110,27 +110,26 @@ This little repository of information is put together in the interest of helping
     * 3 Axis Cameras
 * Other
   * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
-  * Now called Insight Pro.
-  * The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures.
-  * Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems.
-  * Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking
-  * [https://www.subsea-tech.com/2g-robotics/](https://www.subsea-tech.com/2g-robotics/) 
+    * Now called Insight Pro.
+    * "The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures."
+    * "Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems."
+    * "Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking"
+    * [https://www.subsea-tech.com/2g-robotics/](https://www.subsea-tech.com/2g-robotics/) 
 
 ## Development and Release Process
 * Onshape for product data management [https://www.engineering.com/story/is-pdm-the-unnecessary-evil](https://www.engineering.com/story/is-pdm-the-unnecessary-evil)
 
-## Past Dives
+## Past Dives & Tests
 ### 2018
-* Expedition cancelled
+* Scheduled expedition cancelled
 * December, 2018 - Depth 13,00 feet. Bahamas. Solo dive with Stockton Rush. [https://www.instagram.com/p/CAf-QkdBfiN/](https://www.instagram.com/p/CAf-QkdBfiN/)
 
 ### 2019
 * 12 April, 2019 - Tow test and buoyancy check in Bahamas. [https://www.facebook.com/OceanGateExped/videos/241434440028838/?__tn__=%2CO-R](https://www.facebook.com/OceanGateExped/videos/241434440028838/?__tn__=%2CO-R)
 * 17 April, 2019 - Depth: 3,760m.
-* Expedition cancelled
+* Scheduled expedition cancelled
 
 ### 2020
-
 
 ### 2021
 * May, 2021 - Depth: xxx. Test give in Puget Sound. [https://www.instagram.com/p/CPbGj4whHAG/](https://www.instagram.com/p/CPbGj4whHAG/)
