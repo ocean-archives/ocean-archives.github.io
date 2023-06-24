@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 11:51 PM 23 June, 2023
+Last update: 12:15 AM 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -15,7 +15,7 @@ This little repository of information is put together in the interest of helping
   * The carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
   * Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
   * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
-  * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp.
+  * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp. [https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1)
   * The CF hull may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
   * Hull later redone due to cyclic fatigue on original Spencer Composites hull
 * Two titanium hemispheres
