@@ -55,7 +55,10 @@ This little repository of information is put together in the interest of helping
 * Drop weight system
   * 
 * Interior Lighting
-  * IllumaGrip Lighted Assist Handle 
+  * IllumaGrip Lighted Assist Handle
+* Structural Monitoring
+  * "Real time health monitoring" system, though exact implementation is not confirmed.
+  * Patent [https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
 * Navigation
   * iXblue PHINS 6000 Inertial Navigation System (INS)
     * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
