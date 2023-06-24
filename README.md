@@ -161,7 +161,7 @@ This little repository of information is put together in the interest of helping
   * No successful dives made due to poor weather conditions.
   * 23 May, 2023 - Attempt at descent but technical problem with launch platform [https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3](https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3)
 * Mission 3: Scheduled May 29 - June 6, 2023
-  * No successful dives made due to poor weather conditions.
+  * No successful dives made due to poor weather conditions. [https://www.youtube.com/watch?v=O-8U08yJlb8](https://www.youtube.com/watch?v=O-8U08yJlb8)
 * Mission 4: Scheduled June 7 - June 15, 2023
   * No successful dives made due to poor weather conditions.
 * Mission 5: Scheduled June 16 - 24, 2023
