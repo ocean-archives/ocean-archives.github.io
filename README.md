@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 2:22 AM PT 24 June, 2023
+Last update: 2:33 AM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -66,6 +66,8 @@ This little repository of information is put together in the interest of helping
 * Life Support
   * 96 hours for a crew of 5
   * Equipment unknown
+  * CO2 Scrubber
+   * Utilizes soda lime. [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
   * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. It's possible that these are not for the life support, but rather for the buoyancy bags [https://www.instagram.com/p/Bdimnn-lwVl/](https://www.instagram.com/p/Bdimnn-lwVl/)
 * Drop weight system
 * External component controls
@@ -121,7 +123,8 @@ This little repository of information is put together in the interest of helping
 * December, 2018 - Depth 13,00 feet. Bahamas. Solo dive with Stockton Rush. [https://www.instagram.com/p/CAf-QkdBfiN/](https://www.instagram.com/p/CAf-QkdBfiN/)
 
 ### 2019
-* 17 April, 2019 - Depth: 3,760m. 
+* 12 April, 2019 - Tow test and buoyancy check in Bahamas. [https://www.facebook.com/OceanGateExped/videos/241434440028838/?__tn__=%2CO-R](https://www.facebook.com/OceanGateExped/videos/241434440028838/?__tn__=%2CO-R)
+* 17 April, 2019 - Depth: 3,760m.
 * Expedition cancelled
 
 ### 2020
