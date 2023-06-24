@@ -42,7 +42,7 @@ This little repository of information is put together in the interest of helping
 * Hull
   * 2021 Upgrades are made to the carbon fiber hull for Titanic Survey expedition in 2021
   * AFP 4.0 composite by ElectroImpact
-    * [https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca]
+    * [https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca](https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca)
     * [https://www.facebook.com/watch/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&mibextid=2Rb1fB&v=745914473825135](https://www.facebook.com/watch/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&mibextid=2Rb1fB&v=745914473825135)
   * Prepreg CF by Toray Composite Materials America Inc
     * [https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr](https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr)
