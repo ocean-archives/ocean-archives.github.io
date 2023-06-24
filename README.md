@@ -17,6 +17,7 @@ This little repository of information is put together in the interest of helping
   * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
   * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp. [https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1)
   * The CF hull may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
+  * In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
   * Hull later redone due to cyclic fatigue on original Spencer Composites hull
 * Hull insert
   * Designed to prevent condensation from dripping inside and isolates electronics from the hull
