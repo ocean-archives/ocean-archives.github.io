@@ -14,6 +14,7 @@ This little repository of information is put together in the interest of helping
   * Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
   * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
   * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp.
+  * The CF hull may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
   * Hull later redone due to cyclic fatigue on original Spencer Composites hull
 * Two titanium hemispheres
   * Made by Titanium Fabrication Corp
