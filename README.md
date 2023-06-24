@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 11:20 PM 23 June, 2023
+Last update: 11:51 PM 23 June, 2023
 
 ## Background
 ### Why make this?
@@ -28,7 +28,7 @@ This little repository of information is put together in the interest of helping
 * Viewport
   * 380-mm-diameter (21”) acrylic viewport
   * ~~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~~
-  * Fabricated by Hydrospace Group [https://www.instagram.com/p/Bcs7z66FPO9/](https://www.instagram.com/p/Bcs7z66FPO9/)
+  * Fabricated by Hydrospace Group, though listed as 23" dome. Possibly indicator that two domes have been used. [https://www.instagram.com/p/Bcs7z66FPO9/](https://www.instagram.com/p/Bcs7z66FPO9/)
 * Ballast
   * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free.
   * Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
@@ -101,6 +101,9 @@ This little repository of information is put together in the interest of helping
   * Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems.
   * Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking
   * [https://www.subsea-tech.com/2g-robotics/](https://www.subsea-tech.com/2g-robotics/) 
+
+## Development and Release Process
+* Onshape for product data management [https://www.engineering.com/story/is-pdm-the-unnecessary-evil](https://www.engineering.com/story/is-pdm-the-unnecessary-evil)
 
 ## Past Dives
 ### 2018
