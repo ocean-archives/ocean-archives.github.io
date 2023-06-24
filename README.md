@@ -79,7 +79,7 @@ This little repository of information is put together in the interest of helping
       * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
    * Teledyne BlueView 2D sonar
      * http://www.teledynemarine.com/blueview/
-     * Probably an M900 model, but not sure which one
+     * Probably an M900 Mk2 model with titanium housing rated to 6000m
    * Teledyne 6000m RDI phased array Pioneer DVL, with XRT extended tracking
      * For underwater vehicles, the bottom tracking feature can be used as an important component in the navigation systems. In this case the velocity of the vehicle is combined with an initial position fix, compass or gyro heading, and data from the acceleration sensor. The sensor suite is combined (typically by use of a Kalman filter) to estimate the position of the vehicle. This may help to navigate submarines, autonomous, and remotely operated underwater vehicles.
      * [https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking](https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking)
