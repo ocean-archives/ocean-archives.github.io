@@ -1,4 +1,7 @@
 # OceanGate Titan Archive
+## Background
+### Why make this?
+This little repository of information is put together in the interest of helping retrospective analysis of the 2023 OceanGate Titan incident. The scope of information here is intended to only extend to mechanical, logistical, and operational points of data. I will do my best to include only the information that is confirmed, and any unconfirmed or rumour-basis information will be tagged as "Unconfirmed" to the best of my ability.
 
 ## Construction
 ### Original Titan (aka Cyclops II)
