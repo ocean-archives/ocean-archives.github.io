@@ -16,7 +16,7 @@
   * Hatch
     * Entrance at surface depth, with hatch sealed with 17 bolts
 * Two titanium rings
-  * Assembly: [https://www.youtube.com/watch?v=WK99kBS1AfE]
+  * Assembly: [https://www.youtube.com/watch?v=WK99kBS1AfE](https://www.youtube.com/watch?v=WK99kBS1AfE)
 * 380-mm-diameter acrylic viewport
 * Ballast
   * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free. Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
@@ -33,7 +33,9 @@
 
 ## On-board systems at the time of the incident
 * Propulsion
-  * Innerspace electric thrusters 1002:  2 vertical, 2 horizontal. 
+  * Innerspace Model 1002 series electric thrusters
+    * 2 vertical, 2 horizontal
+    * [https://innerspacethrusters.com/products/electric/model-1002-series/](https://innerspacethrusters.com/products/electric/model-1002-series/)
 * Life Support
   * 96 hours for a crew of 5
   * Equipment unknown
