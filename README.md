@@ -28,7 +28,8 @@ This little repository of information is put together in the interest of helping
 * Ballast
   * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free. Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
 * Fairing
-  * Glass fiber shell pieces for outer shell fairing 
+  * Glass fiber shell composite pieces for outer shell.
+  * Bolted to titanium rings.
 
 ### Titan Upgrades (2020 and/or 2021)
 * Hull
