@@ -4,6 +4,7 @@
 ### Original Titan (aka Cyclops II)
 * Hull
   * 6000lb Carbon fiber wound cylinder hull
+  * 56” diameter, 100” long
   * Built by Spencer Composites in 2017
   * alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies. [https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
   * The carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
@@ -16,8 +17,11 @@
   * Hatch
     * Entrance at surface depth, with hatch sealed with 17 bolts
 * Two titanium rings
+  * Made by Titanium Fabrication Corp
   * Assembly: [https://www.youtube.com/watch?v=WK99kBS1AfE](https://www.youtube.com/watch?v=WK99kBS1AfE)
-* 380-mm-diameter acrylic viewport
+* Viewport
+  * 380-mm-diameter (21”) acrylic viewport
+  * 
 * Ballast
   * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free. Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
 * Fairing
@@ -39,6 +43,10 @@
 * Life Support
   * 96 hours for a crew of 5
   * Equipment unknown
+* Drop weight system
+  * 
+* Interior Lighting
+  * IllumaGrip Lighted Assist Handle 
 * Navigation
   * iXblue PHINS 6000 Inertial Navigation System (INS)
     * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
@@ -73,13 +81,36 @@
   * https://www.subsea-tech.com/2g-robotics/ 
 
 ## Past Dives
-### ~ 2019
+### 2018
+* Expedition cancelled
+* December, 2018 - Depth 13,00 feet. Bahamas. Solo dive with Stockton Rush.
+### 2019
+* 17 April, 2019 - Depth: 3,760m. 
+* Expedition cancelled
 ### 2020
+
 ### 2021
+* July, 2021 - Depth: xxx. First dive to Titanic wreck with the Titan.
 ### 2022
+* July, 2022 - Depth: xxx. Several dives to the Titanic wreck with the Titan. 
 ### 2023
+* Mission 1: May 11 - 19, 2023
+  * 
+* Mission 2: May 20 - 28, 2023
+  * 
+* Mission 3: May 29 - June 6, 2023
+  * 
+* Mission 4: June 7 - June 15, 2023
+  * 
+* Mission 5: June 16 - 24, 2023
+  * 18 July, 2023 - The Titan's final dive.
 
 ## Timeline of Incident
+* 8:00 - Titan dive begins.
+* 9:45 - Communication is lost between Titan and the Polar Prince.
+* x:xx - Acoustic anomaly is detected from the US Navy
+* 15:00 - The Titan should have re-surfaced from its dive by this time.
+
 
 ##
 
