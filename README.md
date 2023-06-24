@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 4:06 AM PT 24 June, 2023
+Last update: 12:50 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -140,14 +140,14 @@ This little repository of information is put together in the interest of helping
 
 ### 2023
 * Mission 1: Scheduled May 11 - 19, 2023
-  * 
+  * No successful dives made due to poor weather conditions.
 * Mission 2: Scheduled May 20 - 28, 2023
   * No successful dives made due to poor weather conditions.
   * 23 May, 2023 - Attempt at descent but technical problem with launch platform [https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3](https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3)
 * Mission 3: Scheduled May 29 - June 6, 2023
-  * 
+  * No successful dives made due to poor weather conditions.
 * Mission 4: Scheduled June 7 - June 15, 2023
-  * 
+  * No successful dives made due to poor weather conditions.
 * Mission 5: Scheduled June 16 - 24, 2023
   * 18 July, 2023 - The Titan's final dive.
 
