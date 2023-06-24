@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 4:22 PM PT 24 June, 2023
+Last update: 4:56 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -33,7 +33,8 @@ This little repository of information is put together in the interest of helping
 * Viewport
   * 380-mm-diameter (21”) acrylic viewport
   * ~~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~~
-  * Fabricated by Hydrospace Group, though listed as 23" dome. Possibly indicator that two domes have been used. [https://www.instagram.com/p/Bcs7z66FPO9/](https://www.instagram.com/p/Bcs7z66FPO9/)
+  * Fabricated by Hydrospace Group, though listed as 23" dome. Possibly indicator that two domes have been used. [https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R](https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R)
+  * Manufactured and fitted in 2017, making this viewport likely the same viewport reviewed by David Lochridge in 2018.
 * Ballast
   * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free.
   * Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
