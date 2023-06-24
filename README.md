@@ -95,12 +95,15 @@ This little repository of information is put together in the interest of helping
       * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
     * iXblue MT8 compact low-frequency transponder
       * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
+   * Benthos USBL DAT
+     * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
+     * Unsure whether this or the iXBlue gear was used in 2023 expedition
    * Teledyne BlueView 2D sonar
      * [http://www.teledynemarine.com/blueview/](http://www.teledynemarine.com/blueview/)
      * Probably an M900 Mk2 model with titanium housing rated to 6000m
    * Teledyne 6000m RDI phased array Pioneer DVL, with XRT extended tracking
      * For underwater vehicles, the bottom tracking feature can be used as an important component in the navigation systems. In this case the velocity of the vehicle is combined with an initial position fix, compass or gyro heading, and data from the acceleration sensor. The sensor suite is combined (typically by use of a Kalman filter) to estimate the position of the vehicle. This may help to navigate submarines, autonomous, and remotely operated underwater vehicles.
-     * [https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking](https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking)
+     * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
      * [http://www.teledynemarine.com/press-releases/OceanGate](http://www.teledynemarine.com/press-releases/OceanGate)
      * [http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
   * Teledyne Benthos acoustic modem 9xx Series
