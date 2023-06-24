@@ -55,6 +55,7 @@ This little repository of information is put together in the interest of helping
  
 ### Titan Upgrades 2023?
 * Previously used systems by Sonardyne (Sonardyne Gyro Ranger 2 USBL and AvTrak 6) are removed, most likely replaced with equipment from ixBlue.
+  * "We can confirm no Sonardyne equipment was in use or is fitted for the current mission." [https://www.sonardyne.com/case-studies/surveying-the-titanic-with-ranger-2-and-avtrak-6/](https://www.sonardyne.com/case-studies/surveying-the-titanic-with-ranger-2-and-avtrak-6/)
 
 ## On-board systems at the time of the incident
 * Power
