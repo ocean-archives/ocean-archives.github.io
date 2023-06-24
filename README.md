@@ -5,7 +5,7 @@
 * Hull
   * 6000lb Carbon fiber wound cylinder hull
   * Built by Spencer Composites in 2017
-  * alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies. [https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters ]
+  * alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies. [https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
   * The carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
   * Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
   * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
