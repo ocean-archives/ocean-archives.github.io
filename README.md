@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 3:09 AM PT 24 June, 2023
+Last update: 4:06 AM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -161,6 +161,7 @@ All times are noted in GMT.
 
 ## Other Expedition Documents
 * [Release of liability agreement](https://dam.tmz.com/document/b1/o/2023/06/22/b106a285e72448c3a7aef771402ffff0.pdf)
+* [OceanGate Inc v. Lochridge (2:18-cv-01083)](https://www.courtlistener.com/docket/7506826/oceangate-inc-v-lochridge/)
 
 ------------------
 
