@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 1:15 AM 24 June, 2023
+Last update: 1:45 AM 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -56,6 +56,8 @@ This little repository of information is put together in the interest of helping
 * Previously used systems by Sonardyne (Sonardyne Gyro Ranger 2 USBL and AvTrak 6) are removed, most likely replaced with equipment from ixBlue.
 
 ## On-board systems at the time of the incident
+* Power
+  * Ictineu Pressure-tolerant Li-Po Battery [https://www.instagram.com/p/Bgo79HIFCWn/](https://www.instagram.com/p/Bgo79HIFCWn/)
 * Propulsion
   * Innerspace Model 1002 series electric thrusters
     * 2 vertical, 2 horizontal
