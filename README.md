@@ -53,7 +53,10 @@ This little repository of information is put together in the interest of helping
   * 96 hours for a crew of 5
   * Equipment unknown
 * Drop weight system
-  * 
+* External component controls
+  * The "Birns Junction Box" (aka J-Box)
+  * Birns 77-pin connectors used to connect signals throughout the hull.
+  * [https://www.instagram.com/p/CAqPDrKJGCW/](https://www.instagram.com/p/CAqPDrKJGCW/)
 * Interior Lighting
   * IllumaGrip Lighted Assist Handle
 * Structural Monitoring
@@ -102,6 +105,7 @@ This little repository of information is put together in the interest of helping
 ### 2020
 
 ### 2021
+* May, 2021 - Depth: xxx. Test give in Puget Sound. [https://www.instagram.com/p/CPbGj4whHAG/](https://www.instagram.com/p/CPbGj4whHAG/)
 * July, 2021 - Depth: xxx. First dive to Titanic wreck with the Titan.
 ### 2022
 * July, 2022 - Depth: xxx. Several dives to the Titanic wreck with the Titan. 
