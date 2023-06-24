@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 2:43 PM PT 24 June, 2023
+Last update: 3:02 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -75,6 +75,11 @@ This little repository of information is put together in the interest of helping
   * The "Birns Junction Box" (aka J-Box)
   * Birns 77-pin connectors used to connect signals throughout the hull.
   * [https://www.instagram.com/p/CAqPDrKJGCW/](https://www.instagram.com/p/CAqPDrKJGCW/)
+* "Control Pod" [sic]
+  * Referenced in a debriefing on 2023 Expedition Mission 3 footage.
+  * Two spherical orange pods contains motor controllers, switches and relays. Positioned in the aft.
+  * Responsible for controlling the movement of the Titan.
+  * A spare is also kept on hand.
 * Interior Lighting
   * IllumaGrip Lighted Assist Handle
     * [https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html](https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html)
@@ -163,9 +168,11 @@ This little repository of information is put together in the interest of helping
 * Mission 2: Scheduled May 20 - 28, 2023
   * No successful dives made due to poor weather conditions.
   * 23 May, 2023 - Attempt at descent but technical problem with launch platform
+  * The Titan or its launch platform get caught in a ghost net while towing it back, according to Mission 3 member Jake ("DALLMYD").
   * [https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3](https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3)
 * Mission 3: Scheduled May 29 - June 6, 2023
-  * No successful dives made due to poor weather conditions.
+  * No successful dives to wreck made due to poor weather conditions.
+  * Test dive is attempted but aborted due to computer systems trouble.
   * [https://www.youtube.com/watch?v=O-8U08yJlb8](https://www.youtube.com/watch?v=O-8U08yJlb8)
 * Mission 4: Scheduled June 7 - June 15, 2023
   * No successful dives made due to poor weather conditions.
