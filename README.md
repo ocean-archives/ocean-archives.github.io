@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 12:50 PM PT 24 June, 2023
+Last update: 1:19 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -133,11 +133,18 @@ This little repository of information is put together in the interest of helping
 
 ### 2021
 * May, 2021 - Depth: xxx. Test give in Puget Sound. [https://www.instagram.com/p/CPbGj4whHAG/](https://www.instagram.com/p/CPbGj4whHAG/)
-* July, 2021 - Depth: xxx. First dive to Titanic wreck with the Titan.
+* 24 July, 2021 - Depth: xxx. First dive to Titanic wreck.
+* 5 August, 2021 - Depth: xxx. Successful dive to the Titanic wreck. [https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html](https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html)
 
 ### 2022
-* July, 2022 - Depth: xxx. Several dives to the Titanic wreck with the Titan. 
-
+* Mission 1: Scheduled June - July 2022
+  * At least one successful dive.
+* Mission 2: Scheduled June - July 2022
+* Mission 3: Scheduled June - July 2022
+  * At least one successful dive.
+* Mission 4: Scheduled June - July 2022
+  * At least one successful dive.
+   
 ### 2023
 * Mission 1: Scheduled May 11 - 19, 2023
   * No successful dives made due to poor weather conditions.
@@ -165,7 +172,13 @@ All times are noted in GMT.
 
 ------------------
 
-Repository maintained by A. Walraven, ayalan@gmail.com. I am not an expert in submersibles, and greatly appreciate your corrections or any volunteer help in maintaining the information in this page.
+## Author
+
+Repository is created and maintained by Aya Walraven, ayalan@gmail.com. 
+__I am not an expert in submersibles, and greatly appreciate your corrections or any volunteer help in maintaining the information in this page.__
+
+### Contributors
+* Nayuki
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W5PZZJPTKX"></script>
