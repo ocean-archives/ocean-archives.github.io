@@ -155,3 +155,13 @@ All times are noted in GMT.
 
 Repository maintained by A. Walraven, ayalan@gmail.com. I am not an expert in submersibles, and greatly appreciate your corrections or any volunteer help in maintaining the information in this page.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W5PZZJPTKX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W5PZZJPTKX');
+</script>
+
