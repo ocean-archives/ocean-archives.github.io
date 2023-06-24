@@ -132,7 +132,8 @@ This little repository of information is put together in the interest of helping
 ### 2020
 
 ### 2021
-* May, 2021 - Depth: xxx. Test give in Puget Sound. [https://www.instagram.com/p/CPbGj4whHAG/](https://www.instagram.com/p/CPbGj4whHAG/)
+* May, 2021 - Depth: xxx. Test give in Puget Sound.
+  * [https://www.instagram.com/p/CPbGj4whHAG/](https://www.instagram.com/p/CPbGj4whHAG/)
 * Mission 1: Scheduled around June 28 - July 6, 2021
   * 3 July, 2021 - Depth: 1700m. Test dive in North Atlantic
   * Unknown if other successful dives were made on this mission.
@@ -141,9 +142,11 @@ This little repository of information is put together in the interest of helping
   * 14 July, 2021 - Systems test dive.
 * Mission 3: Scheduled for around July 16 - July ??, 2021
 * Mission 4: Scheduled for around July 23 - July ??, 2021
-  * 24 July, 2021 - Depth: ~3800m. First successful 5-crew dive to Titanic wreck. [https://web.archive.org/web/20210922215630/https://oceangateexpeditions.com/blog/titanic-expedition](https://web.archive.org/web/20210922215630/https://oceangateexpeditions.com/blog/titanic-expedition)
+  * 24 July, 2021 - Depth: ~3800m. First successful 5-crew dive to Titanic wreck.
+  * [https://web.archive.org/web/20210922215630/https://oceangateexpeditions.com/blog/titanic-expedition](https://web.archive.org/web/20210922215630/https://oceangateexpeditions.com/blog/titanic-expedition)
 * Mission 5: Scheduled for around July ?? - August 5, 2021
-  * 5 August, 2021 - Depth: ~3800m. Successful dive to the Titanic wreck. [https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html](https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html)
+  * 5 August, 2021 - Depth: ~3800m. Successful dive to the Titanic wreck.
+  * [https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html](https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html)
 
 ### 2022
 * Mission 1: Scheduled June - July 2022
@@ -159,9 +162,11 @@ This little repository of information is put together in the interest of helping
   * No successful dives made due to poor weather conditions.
 * Mission 2: Scheduled May 20 - 28, 2023
   * No successful dives made due to poor weather conditions.
-  * 23 May, 2023 - Attempt at descent but technical problem with launch platform [https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3](https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3)
+  * 23 May, 2023 - Attempt at descent but technical problem with launch platform
+  * [https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3](https://www.travelweekly.com/North-America-Travel/Mission-Titanic-part-3)
 * Mission 3: Scheduled May 29 - June 6, 2023
-  * No successful dives made due to poor weather conditions. [https://www.youtube.com/watch?v=O-8U08yJlb8](https://www.youtube.com/watch?v=O-8U08yJlb8)
+  * No successful dives made due to poor weather conditions.
+  * [https://www.youtube.com/watch?v=O-8U08yJlb8](https://www.youtube.com/watch?v=O-8U08yJlb8)
 * Mission 4: Scheduled June 7 - June 15, 2023
   * No successful dives made due to poor weather conditions.
 * Mission 5: Scheduled June 16 - 24, 2023
