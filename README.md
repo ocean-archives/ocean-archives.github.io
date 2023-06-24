@@ -18,6 +18,9 @@ This little repository of information is put together in the interest of helping
   * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp. [https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1)
   * The CF hull may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
   * Hull later redone due to cyclic fatigue on original Spencer Composites hull
+* Hull insert
+  * Designed to prevent condensation from dripping inside and isolates electronics from the hull
+  * Also used for ambient lighting and aesthetic [https://www.instagram.com/p/Bb0VVcRlggI/](https://www.instagram.com/p/Bb0VVcRlggI/)
 * Two titanium hemispheres
   * Made by Titanium Fabrication Corp
   * Hatch
