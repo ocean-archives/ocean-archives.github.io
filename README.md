@@ -40,6 +40,9 @@ This little repository of information is put together in the interest of helping
   * Prepreg CF by Toray Composite Materials America Inc
     * [https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr](https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr)
   * Machining done by Janicki Industries.
+ 
+### TItan Upgrades 2023?
+* Previously used systems by Sonardyne (Sonardyne Gyro Ranger 2 USBL and AvTrak 6) are removed, most likely replaced with equipment from ixBlue.
 
 ## On-board systems at the time of the incident
 * Propulsion
