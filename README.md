@@ -1,4 +1,4 @@
-# Archive of Information about the OceanGate Titan
+# OceanGate Titan Archive
 
 ## Construction
 ### Original Hull (2018)
@@ -27,6 +27,44 @@
 * Prepreg CF by Toray Composite Materials America Inc https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr
 * Machining done by Janicki Industries.
 
+## On-board systems at the time of the incident
+* Propulsion
+  * Innerspace electric thrusters 1002:  2 vertical, 2 horizontal. 
+* Life Support
+  * 96 hours for a crew of 5
+  * Equipment unknown
+* Navigation
+  * iXblue PHINS 6000 Inertial Navigation System (INS)
+    * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
+    * Posidonia USBL position system
+      * https://www.ixblue.com/store/posidonia/
+      * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
+    * iXblue MT8 compact low-frequency transponder
+      * https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html
+   * Teledyne BlueView 2D sonar
+     * http://www.teledynemarine.com/blueview/
+     * Probably an M900 model, but not sure which one
+   * Teledyne 6000m RDI phased array Pioneer DVL, with XRT extended tracking
+     * For underwater vehicles, the bottom tracking feature can be used as an important component in the navigation systems. In this case the velocity of the vehicle is combined with an initial position fix, compass or gyro heading, and data from the acceleration sensor. The sensor suite is combined (typically by use of a Kalman filter) to estimate the position of the vehicle. This may help to navigate submarines, autonomous, and remotely operated underwater vehicles.
+     * https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking
+     * http://www.teledynemarine.com/press-releases/OceanGate
+     * http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34
+  * Teledyne Benthos acoustic modem?
+    * Maybe also included. Provides real time text communication 6km range of surface.
+* Lighting
+  * 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output 
+* Cameras
+  * External
+    * SubC Imaging iCam Rayfin
+    * 4K camera
+    * 3 Axis Cameras
+* Other
+  * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
+  * Now called Insight Pro.
+  * The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures.
+  * Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems.
+  * Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking
+  * https://www.subsea-tech.com/2g-robotics/ 
 
 ## Past Dives
 ### ~ 2019
