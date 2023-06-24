@@ -79,6 +79,7 @@ This little repository of information is put together in the interest of helping
 * "Control Pod" [sic]
   * Referenced in a debriefing on 2023 expedition mission 3 footage.
   * Two spherical orange pods contains motor controllers, switches and relays. Positioned in the aft.
+  * Within orange covers are 3/4" thick glass spheres to house the equipment. [https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s](https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s)
   * Responsible for controlling the movement of the Titan.
   * A spare is also kept on hand.
   * The control pod units had been in use for 3 years as of the 2023 expedition.
