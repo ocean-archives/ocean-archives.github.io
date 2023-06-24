@@ -68,7 +68,7 @@ This little repository of information is put together in the interest of helping
   * 96 hours for a crew of 5
   * Equipment unknown
   * CO2 Scrubber
-   * Utilizes soda lime. [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
+    * Utilizes soda lime. [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
   * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. It's possible that these are not for the life support, but rather for the buoyancy bags [https://www.instagram.com/p/Bdimnn-lwVl/](https://www.instagram.com/p/Bdimnn-lwVl/)
 * Drop weight system [https://www.instagram.com/p/CWYo5FhsS2Q/](https://www.instagram.com/p/CWYo5FhsS2Q/)
 * External component controls
