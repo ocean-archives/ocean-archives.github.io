@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 11:19 PM 23 June, 2023
+Last update: 11:20 PM 23 June, 2023
 
 ## Background
 ### Why make this?
@@ -140,5 +140,7 @@ This little repository of information is put together in the interest of helping
 * 15:00 - The Titan should have re-surfaced from its dive by this time.
 
 
-##
+------------------
+
+Repository maintained by A. Walraven, ayalan@gmail.com)
 
