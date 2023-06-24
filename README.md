@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 12:15 AM 24 June, 2023
+Last update: 12:48 AM 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -85,8 +85,8 @@ This little repository of information is put together in the interest of helping
      * [https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking](https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking)
      * [http://www.teledynemarine.com/press-releases/OceanGate](http://www.teledynemarine.com/press-releases/OceanGate)
      * [http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
-  * Teledyne Benthos acoustic modem?
-    * Maybe also included. Provides real time text communication 6km range of surface.
+  * Teledyne Benthos acoustic modem 9xx Series
+    * Provides real time text communication 6km range of surface. [https://www.instagram.com/p/BxEYwIOhH8G/](https://www.instagram.com/p/BxEYwIOhH8G/)
   * Thruster Control
     * Logitech F710 Wireless Game Pad
 * Lighting
