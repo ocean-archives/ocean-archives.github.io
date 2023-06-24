@@ -60,7 +60,7 @@ This little repository of information is put together in the interest of helping
   * iXblue PHINS 6000 Inertial Navigation System (INS)
     * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
     * Posidonia USBL position system
-      * https://www.ixblue.com/store/posidonia/
+      * [https://www.ixblue.com/store/posidonia/](https://www.ixblue.com/store/posidonia/)
       * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
     * iXblue MT8 compact low-frequency transponder
       * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
@@ -87,7 +87,7 @@ This little repository of information is put together in the interest of helping
   * The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures.
   * Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems.
   * Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking
-  * https://www.subsea-tech.com/2g-robotics/ 
+  * [https://www.subsea-tech.com/2g-robotics/](https://www.subsea-tech.com/2g-robotics/) 
 
 ## Past Dives
 ### 2018
