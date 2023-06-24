@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 3:02 PM PT 24 June, 2023
+Last update: 4:02 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -41,6 +41,7 @@ This little repository of information is put together in the interest of helping
 * Fairing
   * Glass fiber shell composite pieces for outer shell.
   * Bolted to titanium rings.
+  * Empty space is filled with blocks of syntactic foam.
 
 ### Titan Upgrades (2020 and/or 2021)
 * Hull
