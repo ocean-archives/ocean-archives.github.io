@@ -76,10 +76,11 @@ This little repository of information is put together in the interest of helping
   * Birns 77-pin connectors used to connect signals throughout the hull.
   * [https://www.instagram.com/p/CAqPDrKJGCW/](https://www.instagram.com/p/CAqPDrKJGCW/)
 * "Control Pod" [sic]
-  * Referenced in a debriefing on 2023 Expedition Mission 3 footage.
+  * Referenced in a debriefing on 2023 expedition mission 3 footage.
   * Two spherical orange pods contains motor controllers, switches and relays. Positioned in the aft.
   * Responsible for controlling the movement of the Titan.
   * A spare is also kept on hand.
+  * The control pod units had been in use for 3 years as of the 2023 expedition.
 * Interior Lighting
   * IllumaGrip Lighted Assist Handle
     * [https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html](https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html)
