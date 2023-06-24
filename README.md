@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 2:16 AM PT 24 June, 2023
+Last update: 2:22 AM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -153,6 +153,8 @@ All times are noted in GMT.
 * x:xx - Acoustic anomaly is detected from the US Navy
 * 19:00 - The Titan should have re-surfaced from its dive by this time.
 
+## Other Expedition Documents
+* [Release of liability agreement](https://dam.tmz.com/document/b1/o/2023/06/22/b106a285e72448c3a7aef771402ffff0.pdf)
 
 ------------------
 
