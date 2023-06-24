@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 1:45 AM 24 June, 2023
+Last update: 2:16 AM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -65,6 +65,7 @@ This little repository of information is put together in the interest of helping
 * Life Support
   * 96 hours for a crew of 5
   * Equipment unknown
+  * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. It's possible that these are not for the life support, but rather for the buoyancy bags [https://www.instagram.com/p/Bdimnn-lwVl/](https://www.instagram.com/p/Bdimnn-lwVl/)
 * Drop weight system
 * External component controls
   * The "Birns Junction Box" (aka J-Box)
