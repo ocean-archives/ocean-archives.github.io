@@ -20,7 +20,13 @@
 * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free. Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
 * Glass fiber shell pieces for outer shell fairing 
 
-##
+### Upgraded Hull (2020 and/or 2021)
+* 2021 Upgrades to Carbon Fiber Hull for Titanic Survey expedition 2021
+* AFP 4.0 composite by ElectroImpact
+  * https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca
+* Prepreg CF by Toray Composite Materials America Inc https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr
+* Machining done by Janicki Industries.
+
 
 ##
 
