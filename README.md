@@ -24,7 +24,7 @@ This little repository of information is put together in the interest of helping
   * Assembly: [https://www.youtube.com/watch?v=WK99kBS1AfE](https://www.youtube.com/watch?v=WK99kBS1AfE)
 * Viewport
   * 380-mm-diameter (21”) acrylic viewport
-  * ~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~
+  * ~~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~~
   * Fabricated by Hydrospace Group [https://www.instagram.com/p/Bcs7z66FPO9/](https://www.instagram.com/p/Bcs7z66FPO9/)
 * Ballast
   * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free.
