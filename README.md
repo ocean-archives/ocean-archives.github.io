@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 2:33 AM PT 24 June, 2023
+Last update: 2:46 AM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -139,15 +139,15 @@ This little repository of information is put together in the interest of helping
 * July, 2022 - Depth: xxx. Several dives to the Titanic wreck with the Titan. 
 
 ### 2023
-* Mission 1: May 11 - 19, 2023
+* Mission 1: Scheduled May 11 - 19, 2023
   * 
-* Mission 2: May 20 - 28, 2023
+* Mission 2: Scheduled May 20 - 28, 2023
   * 
-* Mission 3: May 29 - June 6, 2023
+* Mission 3: Scheduled May 29 - June 6, 2023
   * 
-* Mission 4: June 7 - June 15, 2023
+* Mission 4: Scheduled June 7 - June 15, 2023
   * 
-* Mission 5: June 16 - 24, 2023
+* Mission 5: Scheduled June 16 - 24, 2023
   * 18 July, 2023 - The Titan's final dive.
 
 ## Timeline of Incident
