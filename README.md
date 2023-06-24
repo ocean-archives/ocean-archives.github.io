@@ -134,10 +134,12 @@ This little repository of information is put together in the interest of helping
   * 18 July, 2023 - The Titan's final dive.
 
 ## Timeline of Incident
-* 8:00 - Titan dive begins.
-* 9:45 - Communication is lost between Titan and the Polar Prince.
+All times are noted in GMT.
+* 8:00 - Titan scheduled to start descent but is delayed.
+* 12:00 - Titan dive begins.
+* 13:45 - Communication is lost between Titan and the Polar Prince.
 * x:xx - Acoustic anomaly is detected from the US Navy
-* 15:00 - The Titan should have re-surfaced from its dive by this time.
+* 19:00 - The Titan should have re-surfaced from its dive by this time.
 
 
 ------------------
