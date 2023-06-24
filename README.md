@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 4:17 PM PT 24 June, 2023
+Last update: 4:22 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -90,28 +90,30 @@ This little repository of information is put together in the interest of helping
   * "Real time health monitoring" system, though exact implementation is not confirmed.
   * Patent [https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
 * Navigation
-  * iXblue PHINS 6000 Inertial Navigation System (INS)
+  * iXBlue PHINS 6000 Inertial Navigation System (INS)
     * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
     * Posidonia USBL position system
       * [https://www.ixblue.com/store/posidonia/](https://www.ixblue.com/store/posidonia/)
       * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
     * iXblue MT8 compact low-frequency transponder
       * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
-   * Benthos USBL DAT
+   * Teledyne Benthos USBL DAT (Directional Acoustic Transponder)
+     * Probably rehoused
      * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
      * Unsure whether this or the iXBlue gear was used in 2023 expedition
-   * Teledyne BlueView 2D sonar
+   * Teledyne BlueView M900 Mk2 2D collision avoidance SONAR (rehoused)
      * [http://www.teledynemarine.com/blueview/](http://www.teledynemarine.com/blueview/)
-     * Probably an M900 MK2 model with collision avoidance, likely with titanium housing rated to 6000m
-   * Teledyne BlueView BV5000
+     * Likely with titanium housing rated to 6000m
+   * Teledyne BlueView BV5000 3D imaging SONAR
      *  [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
    * Teledyne 6000m RDI phased array Pioneer DVL, with XRT extended tracking
      * For underwater vehicles, the bottom tracking feature can be used as an important component in the navigation systems. In this case the velocity of the vehicle is combined with an initial position fix, compass or gyro heading, and data from the acceleration sensor. The sensor suite is combined (typically by use of a Kalman filter) to estimate the position of the vehicle. This may help to navigate submarines, autonomous, and remotely operated underwater vehicles.
      * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
      * [http://www.teledynemarine.com/press-releases/OceanGate](http://www.teledynemarine.com/press-releases/OceanGate)
      * [http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
-  * Teledyne Benthos acoustic modem 900 Series
-    * Modified to deliver custom text string as well as beacon position [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
+  * Teledyne Benthos ATM-90x Series acoustic modem
+    * Possibly an ATM-903
+    * Modified to by Teledyne to send/receive custom text strings as well as beacon position [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
     * Provides real time text communication 6km range of surface. [https://www.instagram.com/p/BxEYwIOhH8G/](https://www.instagram.com/p/BxEYwIOhH8G/)
   * Thruster Control
     * Logitech F710 Wireless Game Pad
@@ -209,7 +211,7 @@ __I am not an expert in submersibles, and greatly appreciate your corrections or
 
 ### Contributors
 * Nayuki
-* 
+* 299WF
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W5PZZJPTKX"></script>
