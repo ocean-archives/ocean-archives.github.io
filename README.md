@@ -24,7 +24,7 @@ This little repository of information is put together in the interest of helping
   * Assembly: [https://www.youtube.com/watch?v=WK99kBS1AfE](https://www.youtube.com/watch?v=WK99kBS1AfE)
 * Viewport
   * 380-mm-diameter (21”) acrylic viewport
-  * 
+  * Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)
 * Ballast
   * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free. Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
 * Fairing
@@ -98,7 +98,7 @@ This little repository of information is put together in the interest of helping
 ## Past Dives
 ### 2018
 * Expedition cancelled
-* December, 2018 - Depth 13,00 feet. Bahamas. Solo dive with Stockton Rush.
+* December, 2018 - Depth 13,00 feet. Bahamas. Solo dive with Stockton Rush. [https://www.instagram.com/p/CAf-QkdBfiN/](https://www.instagram.com/p/CAf-QkdBfiN/)
 ### 2019
 * 17 April, 2019 - Depth: 3,760m. 
 * Expedition cancelled
