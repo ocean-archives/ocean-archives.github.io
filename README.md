@@ -142,5 +142,5 @@ This little repository of information is put together in the interest of helping
 
 ------------------
 
-Repository maintained by A. Walraven, ayalan@gmail.com)
+Repository maintained by A. Walraven, ayalan@gmail.com. I am not an expert in submersibles, and greatly appreciate your corrections or any volunteer help in maintaining the information in this page.
 
