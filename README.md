@@ -21,6 +21,7 @@ This little repository of information is put together in the interest of helping
 * Hull insert
   * Designed to prevent condensation from dripping inside and isolates electronics from the hull
   * Also used for ambient lighting and aesthetic [https://www.instagram.com/p/Bb0VVcRlggI/](https://www.instagram.com/p/Bb0VVcRlggI/)
+  * Material is unknown
 * Two titanium hemispheres
   * Made by Titanium Fabrication Corp
   * Hatch
