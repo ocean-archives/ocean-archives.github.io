@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 11:07 PM 23 June, 2023
+Last update: 11:16 PM 23 June, 2023
 
 ## Background
 ### Why make this?
@@ -106,16 +106,21 @@ This little repository of information is put together in the interest of helping
 ### 2018
 * Expedition cancelled
 * December, 2018 - Depth 13,00 feet. Bahamas. Solo dive with Stockton Rush. [https://www.instagram.com/p/CAf-QkdBfiN/](https://www.instagram.com/p/CAf-QkdBfiN/)
+
 ### 2019
 * 17 April, 2019 - Depth: 3,760m. 
 * Expedition cancelled
+
 ### 2020
+
 
 ### 2021
 * May, 2021 - Depth: xxx. Test give in Puget Sound. [https://www.instagram.com/p/CPbGj4whHAG/](https://www.instagram.com/p/CPbGj4whHAG/)
 * July, 2021 - Depth: xxx. First dive to Titanic wreck with the Titan.
+
 ### 2022
 * July, 2022 - Depth: xxx. Several dives to the Titanic wreck with the Titan. 
+
 ### 2023
 * Mission 1: May 11 - 19, 2023
   * 
