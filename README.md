@@ -75,7 +75,8 @@ This little repository of information is put together in the interest of helping
   * Birns 77-pin connectors used to connect signals throughout the hull.
   * [https://www.instagram.com/p/CAqPDrKJGCW/](https://www.instagram.com/p/CAqPDrKJGCW/)
 * Interior Lighting
-  * IllumaGrip Lighted Assist Handle [https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html](https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html)
+  * IllumaGrip Lighted Assist Handle
+    * [https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html](https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html)
 * Structural Monitoring
   * "Real time health monitoring" system, though exact implementation is not confirmed.
   * Patent [https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
