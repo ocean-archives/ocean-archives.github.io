@@ -87,6 +87,8 @@ This little repository of information is put together in the interest of helping
      * [http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
   * Teledyne Benthos acoustic modem?
     * Maybe also included. Provides real time text communication 6km range of surface.
+  * Thruster Control
+    * Logitech F710 Wireless Game Pad
 * Lighting
   * 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output 
 * Cameras
