@@ -209,6 +209,9 @@ This little repository of information is put together in the interest of helping
 * Mission 2: Scheduled (Originally June 7 - June 16, 2022)
 * Mission 3: Scheduled (Originally June 15 - June 24, 2022)
   * At least one successful dive.
+  * 5 July, 2022 - Depth: ~3800m. Successful dive to the Titanic wreck.
+    * Some communication problems reported.
+    * [https://youtu.be/RAncVNaw5N0](https://youtu.be/RAncVNaw5N0)
 * Mission 4/5: Scheduled ??? - ??? (Originally June 23 - July 2, 2022)
   * 14 July, 2022 - Depth: ~3800m. Successful dive to the Titanic wreck.
     * [https://nextpittsburgh.com/latest-news/cmu-researcher-descends-to-the-titanic-to-test-new-communications-technology/](https://nextpittsburgh.com/latest-news/cmu-researcher-descends-to-the-titanic-to-test-new-communications-technology/)
