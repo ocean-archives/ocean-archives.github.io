@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 5:16 PM PT 24 June, 2023
+Last update: 5:25 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -9,16 +9,16 @@ This little repository of information is put together in the interest of helping
 ### Original Titan (aka Cyclops II)
 
 #### Hull
-* 6000lb Carbon fiber wound cylinder hull
-* 56” diameter, 100” long
-* Built by Spencer Composites in 2017
-* "Alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies." [https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
-* The carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
+* Carbon fiber wound cylinder hull built by Spencer Composites in 2017
+* 6000lb, 56” diameter, 100” long
+* "Alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies."
+* [https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
+* Carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
 * Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
 * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
 * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp. [https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1)
-* The CF hull may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
-* In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
+* The CF hull ~~may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II~~. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
+  * In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
 * Hull later redone due to cyclic fatigue on original Spencer Composites hull
 * Hull insert
   * Designed to prevent condensation from dripping inside and isolates electronics from the hull
