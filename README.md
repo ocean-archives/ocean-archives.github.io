@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 6:15 PM PT 24 June, 2023
+Last update: 6:53 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -204,13 +204,14 @@ This little repository of information is put together in the interest of helping
   * [https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html](https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html)
 
 ### 2022
-* Mission 1: Scheduled June - July 2022
+* Mission 1: Scheduled May 30 - June 8, 2022
   * At least one successful dive.
-* Mission 2: Scheduled June - July 2022
-* Mission 3: Scheduled June - July 2022
+* Mission 2: Scheduled June 7 - June 16, 2022
+* Mission 3: Scheduled June 15 - June 24, 2022
   * At least one successful dive.
-* Mission 4: Scheduled June - July 2022
+* Mission 4: Scheduled June 23 - July 2, 2022
   * At least one successful dive.
+* Mission 5: Scheduled July 1 - Julh 10, 2022 
    
 ### 2023
 * Mission 1: Scheduled May 11 - 19, 2023
