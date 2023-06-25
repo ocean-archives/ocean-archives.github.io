@@ -109,41 +109,55 @@ This little repository of information is put together in the interest of helping
   * Patent [https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
 
 ### Navigation
-  * iXBlue PHINS 6000 Inertial Navigation System (INS)
-    * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
-    * Posidonia USBL position system
-      * [https://www.ixblue.com/store/posidonia/](https://www.ixblue.com/store/posidonia/)
-      * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
-    * iXblue MT8 compact low-frequency transponder
-      * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
-   * Teledyne Benthos USBL DAT (Directional Acoustic Transponder)
+
+#### USBL
+* Posidonia USBL position system
+  * [https://www.ixblue.com/store/posidonia/](https://www.ixblue.com/store/posidonia/)
+  * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
+  * Unsure whether this or the Benthos gear was used in 2023 expedition
+* Teledyne Benthos USBL DAT (Directional Acoustic Transponder)
      * Probably rehoused
      * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
-     * Unsure whether this or the iXBlue gear was used in 2023 expedition
-   * Teledyne BlueView M900 Mk2 2D collision avoidance SONAR (rehoused)
-     * [http://www.teledynemarine.com/blueview/](http://www.teledynemarine.com/blueview/)
-     * Likely with titanium housing rated to 6000m
-   * Teledyne BlueView BV5000 3D imaging SONAR
-     *  [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
-   * Teledyne 6000m RDI phased array Pioneer DVL, with XRT extended tracking
-     * For underwater vehicles, the bottom tracking feature can be used as an important component in the navigation systems. In this case the velocity of the vehicle is combined with an initial position fix, compass or gyro heading, and data from the acceleration sensor. The sensor suite is combined (typically by use of a Kalman filter) to estimate the position of the vehicle. This may help to navigate submarines, autonomous, and remotely operated underwater vehicles.
-     * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
-     * [http://www.teledynemarine.com/press-releases/OceanGate](http://www.teledynemarine.com/press-releases/OceanGate)
-     * [http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
+     
+#### INS
+  * iXBlue PHINS 6000 Inertial Navigation System (INS)
+    * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
+ 
+    * iXBlue MT8 compact low-frequency transponder
+      * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
+
+#### SONAR
+* Teledyne BlueView M900 Mk2 2D collision avoidance SONAR (rehoused)
+  * [http://www.teledynemarine.com/blueview/](http://www.teledynemarine.com/blueview/)
+  * Likely with titanium housing rated to 6000m
+* Teledyne BlueView BV5000 3D imaging SONAR
+  *  [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
+
+#### DVL
+* Teledyne 6000m RDI phased array Pioneer DVL, with XRT extended tracking
+  * For underwater vehicles, the bottom tracking feature can be used as an important component in the navigation systems. In this case the velocity of the vehicle is combined with an initial position fix, compass or gyro heading, and data from the acceleration sensor. The sensor suite is combined (typically by use of a Kalman filter) to estimate the position of the vehicle. This may help to navigate submarines, autonomous, and remotely operated underwater vehicles.
+  * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
+  * [http://www.teledynemarine.com/press-releases/OceanGate](http://www.teledynemarine.com/press-releases/OceanGate)
+  * [http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
+
+#### Other
   * Teledyne Benthos ATM-90x Series acoustic modem
     * Possibly an ATM-903
     * Modified to by Teledyne to send/receive custom text strings as well as beacon position [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
     * Provides real time text communication 6km range of surface. [https://www.instagram.com/p/BxEYwIOhH8G/](https://www.instagram.com/p/BxEYwIOhH8G/)
-  * Thruster Control
+
+### Mobility/Thruster Control
     * Logitech F710 Wireless Game Pad
-* External Lighting
+
+### External Lighting
   * 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output 
-* Cameras
-  * External
+
+### External Cameras
     * SubC Imaging iCam Rayfin
     * 4K camera
-    * 3 Axis Cameras
-* Other
+    * 3-axis cameras
+
+### Other
   * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
     * Now called Insight Pro.
     * "The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures."
