@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 4:56 PM PT 24 June, 2023
+Last update: 5:16 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -116,15 +116,14 @@ This little repository of information is put together in the interest of helping
   * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
   * Unsure whether this or the Benthos gear was used in 2023 expedition
 * Teledyne Benthos USBL DAT (Directional Acoustic Transponder)
-     * Probably rehoused
-     * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
+  * Probably rehoused
+  * [https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
      
 #### INS
-  * iXBlue PHINS 6000 Inertial Navigation System (INS)
-    * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
- 
-    * iXBlue MT8 compact low-frequency transponder
-      * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
+* iXBlue PHINS 6000 Inertial Navigation System (INS)
+  * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
+* iXBlue MT8 compact low-frequency transponder
+  * [https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
 
 #### SONAR
 * Teledyne BlueView M900 Mk2 2D collision avoidance SONAR (rehoused)
