@@ -7,43 +7,51 @@ This little repository of information is put together in the interest of helping
 
 ## Construction
 ### Original Titan (aka Cyclops II)
-* Hull
-  * 6000lb Carbon fiber wound cylinder hull
-  * 56” diameter, 100” long
-  * Built by Spencer Composites in 2017
-  * alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies. [https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
-  * The carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
-  * Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
-  * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
-  * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp. [https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1)
-  * The CF hull may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
-  * In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
-  * Hull later redone due to cyclic fatigue on original Spencer Composites hull
+
+#### Hull
+* 6000lb Carbon fiber wound cylinder hull
+* 56” diameter, 100” long
+* Built by Spencer Composites in 2017
+* "Alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies." [https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
+* The carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
+* Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
+* The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
+* Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp. [https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1)
+* The CF hull may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
+* In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
+* Hull later redone due to cyclic fatigue on original Spencer Composites hull
 * Hull insert
   * Designed to prevent condensation from dripping inside and isolates electronics from the hull
   * Also used for ambient lighting and aesthetic [https://www.instagram.com/p/Bb0VVcRlggI/](https://www.instagram.com/p/Bb0VVcRlggI/)
   * Material is unknown
-* Two titanium hemispheres
-  * Made by Titanium Fabrication Corp
-  * Hatch
-    * Entrance at surface depth, with hatch sealed with 17 bolts
-* Two titanium rings
-  * Made by Titanium Fabrication Corp
-  * Assembly: [https://www.youtube.com/watch?v=WK99kBS1AfE](https://www.youtube.com/watch?v=WK99kBS1AfE)
-* Viewport
-  * 380-mm-diameter (21”) acrylic viewport
-  * ~~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~~
-  * Fabricated by Hydrospace Group, though listed as 23" dome. Possibly indicator that two domes have been used. [https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R](https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R)
-  * Manufactured and fitted in 2017, making this viewport likely the same viewport reviewed by David Lochridge in 2018.
-* Ballast
-  * Ballast releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free.
-  * Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
-  * Variable Ballast Tanks
-    * Buoyancy bag located at the top of the Titan, straddling the pressure hull. [https://www.instagram.com/p/B--ds_tls29/](https://www.instagram.com/p/B--ds_tls29/)
-* Fairing
-  * Glass fiber shell composite pieces for outer shell.
-  * Bolted to titanium rings.
-  * Empty space is filled with blocks of syntactic foam.
+
+#### Titanium hemispheres (x2)
+* Made by Titanium Fabrication Corp
+* Hatch
+  * Entrance at surface depth, with hatch sealed with 17 bolts
+
+#### Titanium rings (x2)
+* Made by Titanium Fabrication Corp
+* Affixed to the carbon fiber hull with a glue
+* Assembly: [https://www.youtube.com/watch?v=WK99kBS1AfE](https://www.youtube.com/watch?v=WK99kBS1AfE)
+
+#### Viewport
+* 380-mm-diameter (21”) acrylic viewport
+* ~~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~~
+* Fabricated by Hydrospace Group, though listed as 23" dome. Possibly indicator that two domes have been used. [https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R](https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R)
+* Manufactured and fitted in 2017, making this viewport likely the same viewport reviewed by David Lochridge in 2018.
+
+#### Ballast System
+* Ballast control include pneumatic failsafe.
+* Ballast also releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free.
+* Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
+* Variable Ballast Tanks
+  * Buoyancy bag located at the top of the Titan, straddling the pressure hull. [https://www.instagram.com/p/B--ds_tls29/](https://www.instagram.com/p/B--ds_tls29/)
+
+#### Fairing
+* Glass fiber shell composite pieces for outer shell.
+* Bolted to titanium rings.
+* Empty space is filled with blocks of syntactic foam.
 
 ### Titan Upgrades (2020 and/or 2021)
 * Hull
@@ -61,37 +69,46 @@ This little repository of information is put together in the interest of helping
   * "We can confirm no Sonardyne equipment was in use or is fitted for the current mission." [https://www.sonardyne.com/case-studies/surveying-the-titanic-with-ranger-2-and-avtrak-6/](https://www.sonardyne.com/case-studies/surveying-the-titanic-with-ranger-2-and-avtrak-6/)
 
 ## On-board systems at the time of the incident
-* Power
-  * Ictineu Pressure-tolerant Li-Po Battery [https://www.instagram.com/p/Bgo79HIFCWn/](https://www.instagram.com/p/Bgo79HIFCWn/)
-* Propulsion
-  * Innerspace Model 1002 series electric thrusters
-    * 2 vertical, 2 horizontal
-    * [https://innerspacethrusters.com/products/electric/model-1002-series/](https://innerspacethrusters.com/products/electric/model-1002-series/)
-* Life Support
-  * 96 hours for a crew of 5
-  * Equipment unknown
-  * CO2 Scrubber
-    * Utilizes soda lime. [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
-  * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. It's possible that these are not for the life support, but rather for the buoyancy bags [https://www.instagram.com/p/Bdimnn-lwVl/](https://www.instagram.com/p/Bdimnn-lwVl/)
-* Drop weight system [https://www.instagram.com/p/CWYo5FhsS2Q/](https://www.instagram.com/p/CWYo5FhsS2Q/)
-* External component controls
-  * The "Birns Junction Box" (aka J-Box)
-  * Birns 77-pin connectors used to connect signals throughout the hull.
-  * [https://www.instagram.com/p/CAqPDrKJGCW/](https://www.instagram.com/p/CAqPDrKJGCW/)
-* "Control Pod" [sic]
+### Power
+* Ictineu Pressure-tolerant Li-Po Battery [https://www.instagram.com/p/Bgo79HIFCWn/](https://www.instagram.com/p/Bgo79HIFCWn/)
+
+### Propulsion
+* Innerspace Model 1002 series electric thrusters
+  * 2 vertical, 2 horizontal
+  * [https://innerspacethrusters.com/products/electric/model-1002-series/](https://innerspacethrusters.com/products/electric/model-1002-series/)
+
+### Life Support 
+* 96 hours for a crew of 5
+* Equipment unknown
+* CO2 Scrubber
+  * Utilizes soda lime. [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
+* At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [https://www.instagram.com/p/Bdimnn-lwVl/](https://www.instagram.com/p/Bdimnn-lwVl/)
+
+### Drop weight controller
+* [https://www.instagram.com/p/CWYo5FhsS2Q/](https://www.instagram.com/p/CWYo5FhsS2Q/)
+
+### External component controls
+* The "Birns Junction Box" (aka J-Box)
+* Birns 77-pin connectors used to connect signals throughout the hull.
+* [https://www.instagram.com/p/CAqPDrKJGCW/](https://www.instagram.com/p/CAqPDrKJGCW/)
+
+### "Control Pod" [sic]
   * Referenced in a debriefing on 2023 expedition mission 3 footage.
   * Two spherical orange pods contains motor controllers, switches and relays. Positioned in the aft.
   * Within orange covers are 3/4" thick glass spheres filled with oil to house the equipment. [https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s](https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s)
   * Responsible for controlling the movement of the Titan.
   * A spare is also kept on hand.
   * The control pod units had been in use for 3 years as of the 2023 expedition.
-* Interior Lighting
-  * IllumaGrip Lighted Assist Handle
-    * [https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html](https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html)
-* Structural Monitoring
-  * "Real time health monitoring" system, though exact implementation is not confirmed.
+
+### Interior Lighting
+* IllumaGrip Lighted Assist Handle
+  * [https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html](https://www.campingworld.com/illumagrip-lighted-assist-handle---20-inch-65915.html)
+
+### Structural Monitoring
+* "Real time health monitoring" system, though exact implementation is not confirmed.
   * Patent [https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
-* Navigation
+
+### Navigation
   * iXBlue PHINS 6000 Inertial Navigation System (INS)
     * Phins Subsea is a subsea inertial navigation system providing position, true heading, attitude, speed, depth, and heave. Its high-accuracy inertial measurement unit is coupled with an embedded digital signal processor that runs an advanced Kalman filter. Phins Subsea can be pre-assembled and pre-calibrated with a doppler velocity log version, making the system easy to install and ready to use for more precise navigation.
     * Posidonia USBL position system
@@ -119,7 +136,7 @@ This little repository of information is put together in the interest of helping
     * Provides real time text communication 6km range of surface. [https://www.instagram.com/p/BxEYwIOhH8G/](https://www.instagram.com/p/BxEYwIOhH8G/)
   * Thruster Control
     * Logitech F710 Wireless Game Pad
-* Lighting
+* External Lighting
   * 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output 
 * Cameras
   * External
