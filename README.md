@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 7:10 PM PT 24 June, 2023
+Last update: 7:14 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -210,7 +210,10 @@ This little repository of information is put together in the interest of helping
 * Mission 3: Scheduled (Originally June 15 - June 24, 2022)
   * At least one successful dive.
 * Mission 4/5: Scheduled ??? - ??? (Originally June 23 - July 2, 2022)
+  * 14 July, 2022 - Depth: ~3800m. Successful dive to the Titanic wreck.
+    * [https://nextpittsburgh.com/latest-news/cmu-researcher-descends-to-the-titanic-to-test-new-communications-technology/](https://nextpittsburgh.com/latest-news/cmu-researcher-descends-to-the-titanic-to-test-new-communications-technology/)
   * 19 July, 2022 - Depth: ~3800m. Successful dive to the Titanic wreck.
+    * [https://twitter.com/RojasRenata/status/1550219999104606217](https://twitter.com/RojasRenata/status/1550219999104606217)
    
 ### 2023
 * Mission 1: Scheduled May 11 - 19, 2023
