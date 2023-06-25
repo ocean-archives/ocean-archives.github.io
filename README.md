@@ -148,26 +148,25 @@ This little repository of information is put together in the interest of helping
     * Provides real time text communication 6km range of surface. [https://www.instagram.com/p/BxEYwIOhH8G/](https://www.instagram.com/p/BxEYwIOhH8G/)
 
 ### Mobility/Thruster Control
-    * Logitech F710 Wireless Game Pad
+* Logitech F710 Wireless Game Pad
 
 ### External Lighting
-  * 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output 
+* 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output 
 
 ### External Cameras
-    * SubC Imaging iCam Rayfin
-    * 4K camera
-    * 3-axis cameras
+* SubC Imaging iCam Rayfin
+* 4K camera
+* 3-axis cameras
 
 ### Other
-  * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
-    * Now called Insight Pro.
-    * "The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures."
-    * "Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems."
-    * "Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking"
-    * [https://www.subsea-tech.com/2g-robotics/](https://www.subsea-tech.com/2g-robotics/) 
+* 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
+  * Now called the "Insight Pro".
+  * "The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures. Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems. Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking"
+  * [https://www.subsea-tech.com/2g-robotics/](https://www.subsea-tech.com/2g-robotics/) 
 
 ## Development and Release Process
-* Onshape for product data management [https://www.engineering.com/story/is-pdm-the-unnecessary-evil](https://www.engineering.com/story/is-pdm-the-unnecessary-evil)
+* Onshape for product data management
+  * [https://www.engineering.com/story/is-pdm-the-unnecessary-evil](https://www.engineering.com/story/is-pdm-the-unnecessary-evil)
 
 ## Past Dives & Tests
 ### 2018
