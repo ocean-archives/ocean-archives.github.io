@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 5:29 PM PT 24 June, 2023
+Last update: 6:09 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -184,17 +184,20 @@ This little repository of information is put together in the interest of helping
 ### 2021
 * May, 2021 - Depth: xxx. Test give in Puget Sound.
   * [https://www.instagram.com/p/CPbGj4whHAG/](https://www.instagram.com/p/CPbGj4whHAG/)
-* Mission 1: Scheduled around June 28 - July 6, 2021
+* Mission 1 "Test Dive": Scheduled around June 28 - July 6, 2021
   * 3 July, 2021 - Depth: 1700m. Test dive in North Atlantic
   * Unknown if other successful dives were made on this mission.
-* Mission 2: Scheduled around July 7 - July 14, 2021
-  * ?? July, 2021 - Depth: ~3800m. Successful dive to Titanic wreck.
+  * Damage occurs to platform and part of sub, and water incursion into cabling for control pod.
+* Mission 2 "Titanic Debris": Scheduled around July 7 - July 14, 2021
+  * ?? July, 2021 - Depth: ~3800m. Successful dive to Titanic wreck debris field.
   * 14 July, 2021 - Systems test dive.
-* Mission 3: Scheduled for around July 16 - July ??, 2021
-* Mission 4: Scheduled for around July 23 - July ??, 2021
+  * Battery challenges.
+* Mission 3 "3400m Dive": Scheduled for around July 16 - July ??, 2021
+  * Dive to 3400m experiences battery related trouble again and needs to come back up 
+* Mission 4 "Titanic Debris & Bow": Scheduled for around July 23 - July ??, 2021
   * 24 July, 2021 - Depth: ~3800m. First successful 5-crew dive to Titanic wreck.
   * [https://web.archive.org/web/20210922215630/https://oceangateexpeditions.com/blog/titanic-expedition](https://web.archive.org/web/20210922215630/https://oceangateexpeditions.com/blog/titanic-expedition)
-* Mission 5: Scheduled for around July ?? - August 5, 2021
+* Mission 5 "Titanic Bow & Stern": Scheduled for around July ?? - August 5, 2021
   * 5 August, 2021 - Depth: ~3800m. Successful dive to the Titanic wreck.
   * [https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html](https://www.independent.co.uk/news/world/americas/titanic-submersible-missing-imploded-david-waud-b2361855.html)
 
