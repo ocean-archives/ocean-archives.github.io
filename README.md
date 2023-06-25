@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 7:14 PM PT 24 June, 2023
+Last update: 8:17 PM PT 24 June, 2023
 
 ## Background
 ### Why make this?
@@ -145,10 +145,14 @@ This little repository of information is put together in the interest of helping
   * [http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
 
 #### Other
-  * Teledyne Benthos ATM-90x Series acoustic modem
-    * Possibly an ATM-903
-    * Modified to by Teledyne to send/receive custom text strings as well as beacon position [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
-    * Provides real time text communication 6km range of surface. [https://www.instagram.com/p/BxEYwIOhH8G/](https://www.instagram.com/p/BxEYwIOhH8G/)
+* Teledyne Benthos ATM-90x Series acoustic modem
+  * Possibly an ATM-903
+  * Modified to by Teledyne to send/receive custom text strings as well as beacon position [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
+  * Provides real time text communication 6km range of surface. [https://www.instagram.com/p/BxEYwIOhH8G/](https://www.instagram.com/p/BxEYwIOhH8G/)
+   
+* CTD / Sound Velocity
+  * Valeport Midas SVX2
+  * [https://www.linkedin.com/posts/phill-harvey-financedirector-oceanographic-watermonitoring-manufacturing_titan-activity-6821356543955496960-jmkv/](https://www.linkedin.com/posts/phill-harvey-financedirector-oceanographic-watermonitoring-manufacturing_titan-activity-6821356543955496960-jmkv/)
 
 ### Mobility/Thruster Control
 * Logitech F710 Wireless Game Pad
