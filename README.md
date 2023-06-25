@@ -70,7 +70,8 @@ This little repository of information is put together in the interest of helping
 
 ## On-board systems at the time of the incident
 ### Power
-* Ictineu Pressure-tolerant Li-Po Battery [https://www.instagram.com/p/Bgo79HIFCWn/](https://www.instagram.com/p/Bgo79HIFCWn/)
+* Ictineu Pressure-tolerant Li-Po Battery
+  * [https://www.instagram.com/p/Bgo79HIFCWn/](https://www.instagram.com/p/Bgo79HIFCWn/)
 
 ### Propulsion
 * Innerspace Model 1002 series electric thrusters
@@ -81,7 +82,8 @@ This little repository of information is put together in the interest of helping
 * 96 hours for a crew of 5
 * Equipment unknown
 * CO2 Scrubber
-  * Utilizes soda lime. [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
+  * Utilizes soda lime.
+  * [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
 * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [https://www.instagram.com/p/Bdimnn-lwVl/](https://www.instagram.com/p/Bdimnn-lwVl/)
 
 ### Drop weight controller
