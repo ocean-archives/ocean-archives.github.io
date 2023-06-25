@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 8:17 PM PT 24 June, 2023
+Last update: 12:48 AM PT 25 June, 2023
 
 ## Background
 ### Why make this?
@@ -96,13 +96,16 @@ This little repository of information is put together in the interest of helping
 * Birns 77-pin connectors used to connect signals throughout the hull.
 * [https://www.instagram.com/p/CAqPDrKJGCW/](https://www.instagram.com/p/CAqPDrKJGCW/)
 
+### Fire Safety
+* Pocket Smoke Mask by HKMASK Safety Ltd.
+
 ### "Control Pod" [sic]
-  * Referenced in a debriefing on 2023 expedition mission 3 footage.
-  * Two spherical orange pods contains motor controllers, switches and relays. Positioned in the aft.
-  * Within orange covers are 3/4" thick glass spheres filled with oil to house the equipment. [https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s](https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s)
-  * Responsible for controlling the movement of the Titan.
-  * A spare is also kept on hand.
-  * The control pod units had been in use for 3 years as of the 2023 expedition.
+* Referenced in a debriefing on 2023 expedition mission 3 footage.
+* Two spherical orange pods contains motor controllers, switches and relays. Positioned in the aft.
+* Within orange covers are 3/4" thick glass spheres filled with oil to house the equipment. [https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s](https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s)
+* Responsible for controlling the movement of the Titan.
+* A spare is also kept on hand.
+* The control pod units had been in use for 3 years as of the 2023 expedition.
 
 ### Interior Lighting
 * IllumaGrip Lighted Assist Handle
