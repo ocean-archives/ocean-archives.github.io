@@ -240,7 +240,7 @@ This little repository of information is put together in the interest of helping
 * Mission 4: Scheduled June 7 - June 15, 2023
   * No successful dives made due to poor weather conditions.
 * Mission 5: Scheduled June 16 - 24, 2023
-  * 18 July, 2023 - The Titan's final dive.
+  * 18 June, 2023 - The Titan's final dive.
 
 ## Timeline of Incident
 All times are noted in GMT.
