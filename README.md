@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 21:10 PT 26 June, 2023
+Last update: 10:57 PT 26 June, 2023
 
 ## Background
 ### Why make this?
@@ -61,7 +61,7 @@ This little repository of information is put together in the interest of helping
   * Carbon Fiber composite by ElectroImpact
     * [https://www.facebook.com/watch/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&mibextid=2Rb1fB&v=745914473825135](https://www.facebook.com/watch/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&mibextid=2Rb1fB&v=745914473825135)
   * Manufactured using "AFP 4.0" process
-    * [https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca](https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca)   
+    * ~~[https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca](https://webcache.googleusercontent.com/search?q=cache:MyFriZKS5ioJ:https://www.electroimpact.com/WhitePapers/AFP4.0.pdf&cd=10&hl=en&ct=clnk&gl=ca)~~ File Removed  
   * Prepreg CF by Toray Composite Materials America Inc
     * [https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr](https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr)
   * Machining done by Janicki Industries.
@@ -86,6 +86,7 @@ This little repository of information is put together in the interest of helping
 * CO2 Scrubber
   * Utilizes soda lime.
   * [https://www.facebook.com/OceanGateInc/videos/245982903111389](https://www.facebook.com/OceanGateInc/videos/245982903111389)
+  * "One of the many essential life support systems on a dive is a CO2 (carbon dioxide) scrubber. Our scrubbing system for Cyclops 1 and Titan contains soda lime. Soda lime are white granules that contain a mixture of calcium hydroxide (~75%) and sodium hydroxide (3%) with a precise amount of water moisture and binding agents. They absorb CO2 from the air via an exothermic, water facilitated, base catalyzed chemical reaction. The fans in our subs circulate air throughout the interior so all breathing air is consistently brought to the scrubber unit and cleaned of CO2."
 * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [https://www.instagram.com/p/Bdimnn-lwVl/](https://www.instagram.com/p/Bdimnn-lwVl/)
 
 ### Drop weight controller
@@ -101,8 +102,8 @@ This little repository of information is put together in the interest of helping
 
 ### "Control Pod" [sic]
 * Referenced in a debriefing on 2023 expedition mission 3 footage.
-* Two spherical orange pods contains motor controllers, switches and relays. Positioned in the aft.
-* Within orange covers are 3/4" thick glass spheres filled with oil to house the equipment. [https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s](https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s)
+* Two deep sea glass instrument spheres with orange shells contain motor controllers, switches and relays. Positioned in the aft, outside of the pressure vessel hull.
+* Filled with oil [https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s](https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s)
 * Responsible for controlling the movement of the Titan.
 * A spare is also kept on hand.
 * The control pod units had been in use for 3 years as of the 2023 expedition.
