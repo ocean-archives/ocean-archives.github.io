@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 12:48 AM PT 25 June, 2023
+Last update: 21:10 PT 26 July, 2023
 
 ## Background
 ### Why make this?
@@ -264,6 +264,8 @@ __I am not an expert in submersibles, and greatly appreciate your corrections or
 ### Contributors
 * Nayuki
 * 299WF
+
+[Change Log](https://github.com/ocean-archives/ocean-archives.github.io/commits/main/README.md)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W5PZZJPTKX"></script>
