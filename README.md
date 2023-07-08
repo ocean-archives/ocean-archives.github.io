@@ -167,7 +167,10 @@ This little repository of information is put together in the interest of helping
 ### External Cameras
 * SubC Imaging iCam Rayfin
 * 4K camera
-* 3-axis cameras
+* 3 AXIS cameras [AXIS F34 Network Camera](https://www.axis.com/products/axis-f34-surveillance-system/support) - one on IP 192.168.0.90
+
+### Computer Hardware
+* 2 [MageDok screens](http://www.magedok.com/) - exact type unclear - one on the left and one on the right side inside (the small ones)
 
 ### Other
 * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
