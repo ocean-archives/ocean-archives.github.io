@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 02:10 PT 16 July, 2023
+Last update: 02:22 PT 16 July, 2023
 
 ## Background
 ### Why make this?
@@ -101,7 +101,7 @@ This little repository of information is put together in the interest of helping
 * Pocket Smoke Mask by HKMASK Safety Ltd.
 
 ### Internal Computer Systems
-* 3 Nuvo-5000 or very similar fanless PCs by OnLogic. [https://www.onlogic.com/nuvo-5000/](https://www.onlogic.com/nuvo-5000/)
+* 3 Nuvo-5000LP or very similar fanless PCs by OnLogic. [https://www.onlogic.com/nuvo-5000lp/](https://www.onlogic.com/nuvo-5000lp/)
   * Controls media, cameras, and hull monitoring system
 
 ### "Control Pod" [sic]
