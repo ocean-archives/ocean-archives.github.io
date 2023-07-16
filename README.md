@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 10:57 PT 26 June, 2023
+Last update: 10:05 PT 15 July, 2023
 
 ## Background
 ### Why make this?
@@ -157,6 +157,10 @@ This little repository of information is put together in the interest of helping
 * CTD / Sound Velocity
   * Valeport Midas SVX2
   * [https://www.linkedin.com/posts/phill-harvey-financedirector-oceanographic-watermonitoring-manufacturing_titan-activity-6821356543955496960-jmkv/](https://www.linkedin.com/posts/phill-harvey-financedirector-oceanographic-watermonitoring-manufacturing_titan-activity-6821356543955496960-jmkv/)
+
+* Axis Communications F34 Network Camera System
+  * Seen in https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1417s 
+  
 
 ### Mobility/Thruster Control
 * Logitech F710 Wireless Game Pad
