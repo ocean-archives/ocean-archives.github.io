@@ -101,8 +101,10 @@ This little repository of information is put together in the interest of helping
 * Pocket Smoke Mask by HKMASK Safety Ltd.
 
 ### Internal Computer Systems
-* 3 Nuvo-5000LP or very similar fanless PCs by OnLogic. [https://www.onlogic.com/nuvo-5000lp/](https://www.onlogic.com/nuvo-5000lp/)
+* Three Nuvo-5000LP or very similar fanless PCs by OnLogic. [https://www.onlogic.com/nuvo-5000lp/](https://www.onlogic.com/nuvo-5000lp/)
   * Controls media, cameras, and hull monitoring system
+* Two [MageDok screens](http://www.magedok.com/) - exact type unclear - one on the left and one on the right side inside (the small ones)
+ 
 
 ### "Control Pod" [sic]
 * Referenced in a debriefing on 2023 expedition mission 3 footage.
@@ -180,9 +182,6 @@ This little repository of information is put together in the interest of helping
 * SubC Imaging iCam Rayfin
 * 4K camera
 * 3 AXIS cameras [AXIS F34 Network Camera](https://www.axis.com/products/axis-f34-surveillance-system/support) - one on IP 192.168.0.90
-
-### Computer Hardware
-* 2 [MageDok screens](http://www.magedok.com/) - exact type unclear - one on the left and one on the right side inside (the small ones)
 
 ### Other
 * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
