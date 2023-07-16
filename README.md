@@ -279,6 +279,7 @@ __I am not an expert in submersibles, and greatly appreciate your corrections or
 ### Contributors
 * Nayuki
 * 299WF
+* [tricoos](https://github.com/tricoos)
 
 [Change Log](https://github.com/ocean-archives/ocean-archives.github.io/commits/main/README.md)
 
