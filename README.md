@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 10:05 PT 15 July, 2023
+Last update: 01:08 PT 16 July, 2023
 
 ## Background
 ### Why make this?
@@ -115,6 +115,7 @@ This little repository of information is put together in the interest of helping
 ### Structural Monitoring
 * "Real time health monitoring" system, though exact implementation is not confirmed.
   * Patent [https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
+  * "This system is based on nine separate acoustic sensors and 18 strain gauges to measure all mechanical loading of the hull using both passive and active measurements to compare with historical performance at depth." ([Marine Technology Society Journal](https://mtsociety.memberclicks.net/assets/docs/Journals/MTS52-5-WEB.pdf))
 
 ### Navigation
 
