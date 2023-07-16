@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 03:23 PT 16 July, 2023
+Last update: 12:46 PT 16 July, 2023
 
 ## Background
 ### Why make this?
@@ -101,8 +101,11 @@ This little repository of information is put together in the interest of helping
 * Pocket Smoke Mask by HKMASK Safety Ltd.
 
 ### Internal Computer Systems
-* Three Nuvo-5000LP or very similar fanless PCs by OnLogic. [https://www.onlogic.com/nuvo-5000lp/](https://www.onlogic.com/nuvo-5000lp/)
+* Three Nuvo-5000LP or very similar fanless PCs by OnLogic. [OnLogic Product page](https://www.onlogic.com/nuvo-5000lp/)
   * Controls media, cameras, and hull monitoring system
+  * Main SCADA control panel likely created with Generic Logic GLG Toolkit for monitoring battery, power systems, etc.
+    * OceanGate is listed as a customer on the [Generic Logic website](https://www.genlogic.com/generic_logic.html).
+    * The GLG Toolkit avianics widget exactly matches the widget seen in [YouTube video](https://www.youtube.com/watch?v=BL2aCMONLws) and various other footage from inside the Titan.
 * Two [MageDok screens](http://www.magedok.com/) - exact type unclear - one on the left and one on the right side inside (the small ones)
  
 
