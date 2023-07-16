@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 02:22 PT 16 July, 2023
+Last update: 03:20 PT 16 July, 2023
 
 ## Background
 ### Why make this?
@@ -122,6 +122,9 @@ This little repository of information is put together in the interest of helping
   * "This system is based on nine separate acoustic sensors and 18 strain gauges to measure all mechanical loading of the hull using both passive and active measurements to compare with historical performance at depth." ([Marine Technology Society Journal](https://mtsociety.memberclicks.net/assets/docs/Journals/MTS52-5-WEB.pdf))
 
 ### Navigation
+
+### (Unconfirmed) Tracking transducer
+* Kongsberg ?? Source: [https://youtu.be/RAncVNaw5N0?t=407](https://youtu.be/RAncVNaw5N0?t=407)
 
 #### USBL
 * iXBlue Posidonia USBL position system
