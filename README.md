@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 01:08 PT 16 July, 2023
+Last update: 02:10 PT 16 July, 2023
 
 ## Background
 ### Why make this?
@@ -99,6 +99,10 @@ This little repository of information is put together in the interest of helping
 
 ### Fire Safety
 * Pocket Smoke Mask by HKMASK Safety Ltd.
+
+### Internal Computer Systems
+* 3 Nuvo-5000 or very similar fanless PCs by OnLogic. [https://www.onlogic.com/nuvo-5000/](https://www.onlogic.com/nuvo-5000/)
+  * Controls media, cameras, and hull monitoring system
 
 ### "Control Pod" [sic]
 * Referenced in a debriefing on 2023 expedition mission 3 footage.
