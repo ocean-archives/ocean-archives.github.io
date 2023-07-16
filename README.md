@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 10:57 PT 26 June, 2023
+Last update: 03:20 PT 16 July, 2023
 
 ## Background
 ### Why make this?
@@ -100,6 +100,10 @@ This little repository of information is put together in the interest of helping
 ### Fire Safety
 * Pocket Smoke Mask by HKMASK Safety Ltd.
 
+### Internal Computer Systems
+* 3 Nuvo-5000LP or very similar fanless PCs by OnLogic. [https://www.onlogic.com/nuvo-5000lp/](https://www.onlogic.com/nuvo-5000lp/)
+  * Controls media, cameras, and hull monitoring system
+
 ### "Control Pod" [sic]
 * Referenced in a debriefing on 2023 expedition mission 3 footage.
 * Two deep sea glass instrument spheres with orange shells contain motor controllers, switches and relays. Positioned in the aft, outside of the pressure vessel hull.
@@ -115,8 +119,12 @@ This little repository of information is put together in the interest of helping
 ### Structural Monitoring
 * "Real time health monitoring" system, though exact implementation is not confirmed.
   * [Patent](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
+  * "This system is based on nine separate acoustic sensors and 18 strain gauges to measure all mechanical loading of the hull using both passive and active measurements to compare with historical performance at depth." ([Marine Technology Society Journal](https://mtsociety.memberclicks.net/assets/docs/Journals/MTS52-5-WEB.pdf))
 
 ### Navigation
+
+### (Unconfirmed) Tracking transducer
+* Kongsberg ?? Source: [https://youtu.be/RAncVNaw5N0?t=407](https://youtu.be/RAncVNaw5N0?t=407)
 
 #### USBL
 * iXBlue Posidonia USBL position system
@@ -157,6 +165,10 @@ This little repository of information is put together in the interest of helping
 * CTD / Sound Velocity
   * Valeport Midas SVX2
   * [LinkedIn post](https://www.linkedin.com/posts/phill-harvey-financedirector-oceanographic-watermonitoring-manufacturing_titan-activity-6821356543955496960-jmkv/)
+
+* Axis Communications F34 Network Camera System
+  * Seen in https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1417s 
+  
 
 ### Mobility/Thruster Control
 * Logitech F710 Wireless Game Pad
