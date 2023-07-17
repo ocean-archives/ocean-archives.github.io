@@ -108,7 +108,6 @@ This little repository of information is put together in the interest of helping
     * The GLG Toolkit avianics widget exactly matches the widget seen in [YouTube video](https://www.youtube.com/watch?v=BL2aCMONLws) and various other footage from inside the Titan.
 * Two [MageDok screens](http://www.magedok.com/) - exact type unclear - one on the left and one on the right side inside (the small ones)
  
-
 ### "Control Pod" [sic]
 * Referenced in a debriefing on 2023 expedition mission 3 footage.
 * Two deep sea glass instrument spheres with orange shells contain motor controllers, switches and relays. Positioned in the aft, outside of the pressure vessel hull.
@@ -173,7 +172,10 @@ This little repository of information is put together in the interest of helping
   * [LinkedIn post](https://www.linkedin.com/posts/phill-harvey-financedirector-oceanographic-watermonitoring-manufacturing_titan-activity-6821356543955496960-jmkv/)
 
 * Axis Communications F34 Network Camera System
-  * Seen in https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1417s 
+  * Seen in https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1417s
+
+* Misc Cabling
+  * MacArtney SubConn connectors and cables. [Facebook Post](https://www.facebook.com/permalink.php?story_fbid=4291543250961322&id=151180704997618&paipv=0&eav=AfbPK7dWSq2pW-IFw-phZOUN5rjtMTCrWxBreinduXqrhGJctyUOunuNDi1TfL9WUtw&_rdr)   
   
 
 ### Mobility/Thruster Control
