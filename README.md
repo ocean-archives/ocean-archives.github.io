@@ -1,5 +1,5 @@
 # OceanGate Titan Archive
-Last update: 18:09 PT 16 July, 2023
+Last update: 18:54 PT 16 July, 2023
 
 ## Background
 ### Why make this?
@@ -111,13 +111,14 @@ This little repository of information is put together in the interest of helping
 * Two [MageDok screens](http://www.magedok.com/) - exact type unclear - one on the left and one on the right side inside (the small ones)
  
 ### "Control Pod" [sic]
-* Referenced in a debriefing on 2023 expedition mission 3 footage.
+#### Glass Sphere
 * Two deep sea glass instrument spheres with orange shells contain motor controllers, switches and relays. Positioned in the aft, outside of the pressure vessel hull.
 * Filled with oil [YouTube video](https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1132s)
 * Responsible for controlling the movement of the Titan.
 * A spare is also kept on hand.
 * The control pod units had been in use for 3 years as of the 2023 expedition.
-* Contained small size 5-port RJ45 ethernet switch module. May be similar to this model. [AliExpress Product page](https://www.aliexpress.com/item/32918204913.html)
+#### Pod Contents
+* Small size 5-port RJ45 ethernet switch module. May be similar to this model. [AliExpress Product page](https://www.aliexpress.com/item/32918204913.html)
 
 ### Interior Lighting
 * IllumaGrip Lighted Assist Handle
@@ -128,7 +129,12 @@ This little repository of information is put together in the interest of helping
   * [Patent](https://patents.google.com/patent/US11119071B1/en?q=(%22stockton+rush%22)&oq=%22stockton+rush%22)
   * "This system is based on nine separate acoustic sensors and 18 strain gauges to measure all mechanical loading of the hull using both passive and active measurements to compare with historical performance at depth." ([Marine Technology Society Journal](https://mtsociety.memberclicks.net/assets/docs/Journals/MTS52-5-WEB.pdf))
 
-### Navigation
+### Navigation & Communication
+
+#### CB Radio
+* Uniden Bearcat 9xx or 8xx series CB radio. Seen in footage of components hidden behind panel in aft side dome.
+  * Used for communications when near surface
+  * Attached to Uniden BC9xx model Wireless Microphone
 
 #### (Unconfirmed) Tracking transducer
 * Kongsberg ?? Source: [https://youtu.be/RAncVNaw5N0?t=407](https://youtu.be/RAncVNaw5N0?t=407)
@@ -163,7 +169,7 @@ This little repository of information is put together in the interest of helping
   * [Teledyne press release](http://www.teledynemarine.com/press-releases/OceanGate)
   * [Teledyne product page](http://www.teledynemarine.com/pioneer-doppler-velocity-logs?ProductLineID=34)
 
-#### Other
+#### Other Electronics
 * Teledyne Benthos ATM-90x Series acoustic modem
   * Possibly an ATM-903
   * Modified to by Teledyne to send/receive custom text strings as well as beacon position [https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ](https://www.youtube.com/watch?app=desktop&v=RCa3qhnF9yQ)
@@ -191,7 +197,7 @@ This little repository of information is put together in the interest of helping
 * 4K camera
 * 3 AXIS cameras [AXIS F34 Network Camera](https://www.axis.com/products/axis-f34-surveillance-system/support) - one on IP 192.168.0.90
 
-### Other
+### Scanner
 * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
   * Now called the "Insight Pro".
   * "The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures. Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems. Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking"
