@@ -1,14 +1,13 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 20:41 PT 17 July, 2023
+Last update: 01:38 PT 18 July, 2023
 
 ## Background
 ### Why make this?
 This little repository of information is put together in the interest of helping retrospective analysis of the 2023 OceanGate Titan incident. The scope of information here is intended to only extend to mechanical, logistical, and operational points of data. I will do my best to include only the information that is confirmed, and any unconfirmed or rumour-basis information will be tagged as "Unconfirmed" to the best of my ability.
 
 ## Construction
-### Original Titan (aka Cyclops II)
-
-#### Hull
+### Hull
+#### Version 1
 * Carbon fiber wound cylinder hull built by Spencer Composites in 2017
 * 6000lb, 56” diameter, 100” long
 * "Alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies."
@@ -24,6 +23,15 @@ This little repository of information is put together in the interest of helping
   * Designed to prevent condensation from dripping inside and isolates electronics from the hull
   * Also used for ambient lighting and aesthetic [Instagram](https://www.instagram.com/p/Bb0VVcRlggI/)
   * Material is unknown
+#### Version 2
+* 2021 Upgrades are made to the carbon fiber hull for Titanic Survey expedition in 2021
+  * Carbon Fiber composite by ElectroImpact
+    * [LinkedIn Post (Archived)](https://web.archive.org/web/20230624152949/https://www.linkedin.com/feed/update/urn:li:activity:7006648654967029761/)
+  * Manufactured using ElectroImpact's "AFP 4.0" process
+    * [Whitepaper: "AFP 4.0" (Archived)](https://archive.is/UWOwf)
+  * Prepreg CF by Toray Composite Materials America Inc
+    * [Facebook post](https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr)
+  * Machining done by Janicki Industries.
 
 #### Titanium hemispheres (x2)
 * Made by Titanium Fabrication Corp
@@ -34,6 +42,9 @@ This little repository of information is put together in the interest of helping
 * Made by Titanium Fabrication Corp
 * Affixed to the carbon fiber hull with a glue
 * Assembly: [Video](https://www.youtube.com/watch?v=WK99kBS1AfE)
+* Titanium rings had at least 2 hull penetrators
+  * Penetrators fitted by ports for MacArtney SubConn ethernet and (unconfirmed) coaxial cabling
+  * Connectors have SubConn locked sleeves 
 
 #### Viewport
 * 380-mm-diameter (21”) acrylic viewport
@@ -54,17 +65,6 @@ This little repository of information is put together in the interest of helping
 * Glass fiber shell composite pieces for outer shell.
 * Bolted to titanium rings.
 * Empty space is filled with blocks of syntactic foam.
-
-### Titan Upgrades (2020 and/or 2021)
-* Hull
-  * 2021 Upgrades are made to the carbon fiber hull for Titanic Survey expedition in 2021
-  * Carbon Fiber composite by ElectroImpact
-    * [LinkedIn Post (Archived)](https://web.archive.org/web/20230624152949/https://www.linkedin.com/feed/update/urn:li:activity:7006648654967029761/)
-  * Manufactured using ElectroImpact's "AFP 4.0" process
-    * [Whitepaper: "AFP 4.0" (Archived)](https://archive.is/UWOwf)
-  * Prepreg CF by Toray Composite Materials America Inc
-    * [Facebook post](https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr)
-  * Machining done by Janicki Industries.
  
 ### Titan Upgrades 2023?
 * Previously used systems by Sonardyne (Sonardyne Gyro Ranger 2 USBL and AvTrak 6) are removed, most likely replaced with equipment from ixBlue or Teledyne.
