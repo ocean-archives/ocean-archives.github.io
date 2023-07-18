@@ -6,7 +6,9 @@ Last update: 01:38 PT 18 July, 2023
 This little repository of information is put together in the interest of helping retrospective analysis of the 2023 OceanGate Titan incident. The scope of information here is intended to only extend to mechanical, logistical, and operational points of data. I will do my best to include only the information that is confirmed, and any unconfirmed or rumour-basis information will be tagged as "Unconfirmed" to the best of my ability.
 
 ## Construction
+
 ### Hull
+
 #### Version 1
 * Carbon fiber wound cylinder hull built by Spencer Composites in 2017
 * 6000lb, 56” diameter, 100” long
@@ -23,6 +25,7 @@ This little repository of information is put together in the interest of helping
   * Designed to prevent condensation from dripping inside and isolates electronics from the hull
   * Also used for ambient lighting and aesthetic [Instagram](https://www.instagram.com/p/Bb0VVcRlggI/)
   * Material is unknown
+
 #### Version 2
 * 2021 Upgrades are made to the carbon fiber hull for Titanic Survey expedition in 2021
   * Carbon Fiber composite by ElectroImpact
