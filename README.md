@@ -116,6 +116,7 @@ This little repository of information is put together in the interest of helping
 * Responsible for controlling the movement of the Titan.
 * A spare is also kept on hand.
 * The control pod units had been in use for 3 years as of the 2023 expedition.
+
 #### Pod Contents
 * Small size 5-port RJ45 ethernet switch module. May be similar to this model. [AliExpress Product page](https://www.aliexpress.com/item/32918204913.html)
 
