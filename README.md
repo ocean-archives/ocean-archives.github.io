@@ -65,10 +65,6 @@ This little repository of information is put together in the interest of helping
 * Glass fiber shell composite pieces for outer shell.
 * Bolted to titanium rings.
 * Empty space is filled with blocks of syntactic foam.
- 
-### Titan Upgrades 2023?
-* Previously used systems by Sonardyne (Sonardyne Gyro Ranger 2 USBL and AvTrak 6) are removed, most likely replaced with equipment from ixBlue or Teledyne.
-  * "We can confirm no Sonardyne equipment was in use or is fitted for the current mission." [Sonardyne article](https://www.sonardyne.com/case-studies/surveying-the-titanic-with-ranger-2-and-avtrak-6/)
 
 ## On-board systems at the time of the incident
 ### Power
@@ -140,16 +136,20 @@ This little repository of information is put together in the interest of helping
 * Kongsberg ?? Source: [https://youtu.be/RAncVNaw5N0?t=407](https://youtu.be/RAncVNaw5N0?t=407)
 
 #### USBL
-* iXBlue Posidonia USBL position system
-  * [iXBlue product page](https://www.ixblue.com/store/posidonia/)
-  * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
-  * Unsure whether this or the Benthos gear was used in 2023 expedition
-* iXBlue MT8 compact low-frequency transponder
-  * [Manual](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
-  * Unsure whether this or the Benthos gear was used in 2023 expedition
-* Teledyne Benthos USBL DAT (Directional Acoustic Transponder)
-  * Probably rehoused
-  * [EcoMagazine article](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
+* Removed at time of incident
+  * Previously used systems by Sonardyne (Sonardyne Gyro Ranger 2 USBL and AvTrak 6) are removed, most likely replaced with equipment from ixBlue or Teledyne.
+    * "We can confirm no Sonardyne equipment was in use or is fitted for the current mission." [Sonardyne article](https://www.sonardyne.com/case-studies/surveying-the-titanic-with-ranger-2-and-avtrak-6/)
+* Most in use at time of incident
+  * iXBlue Posidonia USBL position system
+    * [iXBlue product page](https://www.ixblue.com/store/posidonia/)
+    * Posidonia uses advanced acoustic modulation, as well as digital signal processing technology and operates in the low frequency band for deep sea tracking operations. To communicate with Posidonia during each dive, Titan is equipped with iXblue’s MT8 compact low-frequency transponder.
+    * Unsure whether this or the Benthos gear was used in 2023 expedition
+  * iXBlue MT8 compact low-frequency transponder
+    * [Manual](https://www.manualslib.com/products/Ixblue-Gaps-Mt8-11014294.html)
+    * Unsure whether this or the Benthos gear was used in 2023 expedition
+  * Teledyne Benthos USBL DAT (Directional Acoustic Transponder)
+    * Probably rehoused
+    * [EcoMagazine article](https://www.ecomagazine.com/news/industry/teledyne-marine-technology-utilized-extensively-onboard-oceangate-s-titan-manned-submersible)
      
 #### INS
 * iXBlue PHINS 6000 Inertial Navigation System (INS)
