@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 01:38 PT 18 July, 2023
+Last update: 01:46 PT 18 July, 2023
 
 ## Background
 ### Why make this?
@@ -285,6 +285,7 @@ All times are noted in GMT.
 ## Other Documents
 * [Release of liability agreement](https://dam.tmz.com/document/b1/o/2023/06/22/b106a285e72448c3a7aef771402ffff0.pdf)
 * [OceanGate Inc v. Lochridge (2:18-cv-01083)](https://www.courtlistener.com/docket/7506826/oceangate-inc-v-lochridge/)
+* [Marine transportation safety investigation M23A0169](https://www.tsb.gc.ca/eng/enquetes-investigations/marine/2023/m23a0169/m23a0169.html)
 
 ------------------
 
