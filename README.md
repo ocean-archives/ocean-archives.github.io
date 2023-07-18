@@ -1,5 +1,5 @@
-<img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f">
-Last update: 19:53 PT 17 July, 2023
+<img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 50%; height: auto;">
+Last update: 20:41 PT 17 July, 2023
 
 ## Background
 ### Why make this?
