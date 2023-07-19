@@ -3,6 +3,7 @@
 ## Iron Sub
 
 ![](https://i.imgur.com/mfiqbQm.jpg)
-![](https://imgur.com/eVFAd4K)
-![](https://imgur.com/TOrYVD9)
-![](https://imgur.com/nZFVtDo)
+![](https://i.imgur.com/eVFAd4K.png)
+![](https://i.imgur.com/TOrYVD9.png)
+![](https://i.imgur.com/nZFVtDo.png)
+![](https://i.imgur.com/aavcrg4.png)
