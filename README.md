@@ -8,11 +8,11 @@ This little repository of information is put together in the interest of helping
 ## Image Gallery (Coming Soon)
 <table>
   <tr>
-  <td>CAD (OnShape, ShapeWorks) Files</td>
-  <td>Internal Computures</td>
-  <td>External Camera Controls</td>
+  <td><a href="https://ocean-archives.github.io/gallery-cad.html">CAD (OnShape, ShapeWorks) Files</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-internal-computers.html">Internal Computures</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-external-camera-controls.html">External Camera Controls</td>
   <td>Operation Manuals</td>
-  <td>Iron Sub</td>
+  <td><a href="https://ocean-archives.github.io/gallery-iron-sub.html">Iron Sub</a></td>
  </tr>
  <tr>
   <td>Titanium Dome and Ring</td>
@@ -43,11 +43,6 @@ This little repository of information is put together in the interest of helping
   <td>-</td>
  </tr>
 </table>
-
-
-{% for page in site.pages %}
-    <a href={{ page.filename }}>{{ page.title }}</a>
-{% endfor %}
 
 
 ## Construction
