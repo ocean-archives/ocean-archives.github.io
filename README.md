@@ -123,7 +123,7 @@ This little repository of information is put together in the interest of helping
 * Equipment unknown
 * CO2 Scrubber
   * Utilizes soda lime.
-  * [Facebook post](https://www.facebook.com/OceanGateInc/videos/245982903111389)
+  * [Facebook post (Removed)](https://www.facebook.com/OceanGateInc/videos/245982903111389) [(Archived Copy)](https://i.imgur.com/pTIbvpS.png)
   * "One of the many essential life support systems on a dive is a CO2 (carbon dioxide) scrubber. Our scrubbing system for Cyclops 1 and Titan contains soda lime. Soda lime are white granules that contain a mixture of calcium hydroxide (~75%) and sodium hydroxide (3%) with a precise amount of water moisture and binding agents. They absorb CO2 from the air via an exothermic, water facilitated, base catalyzed chemical reaction. The fans in our subs circulate air throughout the interior so all breathing air is consistently brought to the scrubber unit and cleaned of CO2."
 * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [Instagram post](https://www.instagram.com/p/Bdimnn-lwVl/)
 
