@@ -101,7 +101,7 @@ This little repository of information is put together in the interest of helping
 
 ### Internal Computer Systems
 * Inside the aft dome
-  * Three Nuvo-5000LP or very similar fanless PCs by OnLogic. [OnLogic Product page](https://www.onlogic.com/nuvo-5000lp/)
+  * Three Nuvo-5000LP or very similar fanless PCs by Neousys Tech. [Neousys Product page](https://www.neousys-tech.com/en/product/product-lines/industrial-computers/fanless-industrial-pc/nuvo-5000lp)
     * Controls media, cameras, and hull monitoring system
     * Main SCADA control panel likely created with Generic Logic GLG Toolkit for monitoring battery, power systems, etc.
       * OceanGate is listed as a customer on the [Generic Logic website](https://www.genlogic.com/generic_logic.html).
