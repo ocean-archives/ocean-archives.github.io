@@ -1,9 +1,49 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 3:48 PT 19 July, 2023
+Last update: 16:07 PT 19 July, 2023
 
 ## Background
 ### Why make this?
 This little repository of information is put together in the interest of helping retrospective analysis of the 2023 OceanGate Titan incident. The scope of information here is intended to only extend to mechanical, logistical, and operational points of data. I will do my best to include only the information that is confirmed, and any unconfirmed or rumour-basis information will be tagged as "Unconfirmed" to the best of my ability.
+
+## Image Gallery (Coming Soon)
+<table>
+  <tr>
+  <td>CAD (OnShape, ShapeWorks) Files</td>
+  <td>Internal Computures</td>
+  <td>External Camera Controls</td>
+  <td>Operation Manuals</td>
+  <td>Iron Sub</td>
+ </tr>
+ <tr>
+  <td>Titanium Dome and Ring</td>
+  <td>Acrylic Viewport</td>
+  <td>Fairing</td>
+  <td>Hull</td>
+  <td>Thrusters</td>
+ </tr>
+ <tr>
+  <td>Oxygen & Scrubber Systems</td>
+  <td>Displays & Monitors</td>
+  <td>Control Panel</td>
+  <td>Ceiling Light</td>
+  <td>Hull Insert</td>
+ </tr>
+ <tr>
+  <td>J-Box</td>
+  <td>Control Pods</td>
+  <td>Hull Penetrator</td>
+  <td>Batteries</td>
+  <td>Nav / Comms</td>
+ </tr>
+ <tr>
+  <td>Toilet</td>
+  <td>Landing Frame</td>
+  <td>Ballast</td>
+  <td>External Cameras</td>
+  <td>-</td>
+ </tr>
+</table>
+
 
 ## Construction
 
