@@ -37,10 +37,10 @@ This little repository of information is put together in the interest of helping
  </tr>
  <tr>
   <td>Toilet</td>
-  <td>Landing Frame</td>
+  <td>Landing Frame & Syntactic Foam</td>
   <td>Ballast</td>
   <td>External Cameras</td>
-  <td>-</td>
+  <td>Real Time Monitoring System</td>
  </tr>
 </table>
 
