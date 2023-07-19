@@ -10,7 +10,7 @@ This little repository of information is put together in the interest of helping
   <tr>
   <td><a href="https://ocean-archives.github.io/gallery-cad.html">CAD (OnShape, ShapeWorks) Files</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-internal-computers.html">Internal Computurs</a></td>
-  <td><a href="https://ocean-archives.github.io/gallery-external-camera-controls.html">External Camera Controls</td>
+  <td>External Camera Controls</td>
   <td>Operation Manuals</td>
   <td><a href="https://ocean-archives.github.io/gallery-iron-sub.html">Iron Sub</a></td>
  </tr>
