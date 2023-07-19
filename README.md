@@ -134,7 +134,7 @@ This little repository of information is put together in the interest of helping
 * The "Birns Junction Box" (aka J-Box)
 * Birns 77-pin connectors used to connect signals throughout the hull.
   * [Instagram post](https://www.instagram.com/p/CAqPDrKJGCW/)
-  * "This Birns Junction Box (or J-Box for short) has been designs by our Engineering team to connect the brain of Titan to the external electrical components on the submersible. The J-box is named after the Birns 77-pin connector which is utilized to connect all the signals through the hull; the connector itself we named after the company who created it (BIRNS, Inc.). The unit acts like a mission control center, sending out necessary information for each party involved to opera..." (from Facebook post, now removed).
+  * "This Birns Junction Box (or J-Box for short) has been designs by our Engineering team to connect the brain of Titan to the external electrical components on the submersible. The J-box is named after the Birns 77-pin connector which is utilized to connect all the signals through the hull; the connector itself we named after the company who created it (BIRNS, Inc.). The unit acts like a mission control center, sending out necessary information for each party involved to opera..." (Facebook. [Archived](https://i.imgur.com/8IwK8Yf.png)).
 
 ### Fire Safety
 * Pocket Smoke Mask by HKMASK Safety Ltd.
