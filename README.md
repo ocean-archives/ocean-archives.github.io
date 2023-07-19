@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 3:36 PT 19 July, 2023
+Last update: 3:48 PT 19 July, 2023
 
 ## Background
 ### Why make this?
@@ -17,8 +17,7 @@ This little repository of information is put together in the interest of helping
 * Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
 * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
 * Modeling was done in SolidWorks and analysis was done with COSMOS/M, supplied by Dassault Systèmes subsidiary Structural Research and Analysis Corp. [Thesis](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/57640/ZERVOU_THESIS.pdf?sequence=1)
-* The CF hull ~~may have been coated with a layer of polyurethane, though it's unknown if this is from an earlier version when Titan was still known as Cyclops II~~. [https://www.instagram.com/p/BaM6NVUFZ8z/](https://www.instagram.com/p/BaM6NVUFZ8z/)
-  * In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
+* The CF hull was "sandblasted and coated with a 5mm layer of polyurethane to prevent saltwater intrusion when the hull is subjected to water pressures at her maximum depth of 4,000 meters." (From Facebook, now removed).
 * Hull later redone due to cyclic fatigue on original Spencer Composites hull
 * Hull insert
   * Designed to prevent condensation from dripping inside and isolates electronics from the hull
@@ -34,6 +33,7 @@ This little repository of information is put together in the interest of helping
   * Prepreg CF by Toray Composite Materials America Inc
     * [Facebook post](https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr)
   * Machining done by Janicki Industries.
+  * In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
 
 #### Titanium hemispheres (x2)
 * Made by Titanium Fabrication Corp
