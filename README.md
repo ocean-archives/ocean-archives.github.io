@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 01:46 PT 18 July, 2023
+Last update: 3:36 PT 19 July, 2023
 
 ## Background
 ### Why make this?
@@ -12,8 +12,7 @@ This little repository of information is put together in the interest of helping
 #### Version 1
 * Carbon fiber wound cylinder hull built by Spencer Composites in 2017
 * 6000lb, 56” diameter, 100” long
-* "Alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies."
-* [CompositesWorld article](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
+* "Alternating placement of prepreg carbon fiber/epoxy unidirectional fabrics in the axial direction, with wet winding of carbon fiber/epoxy in the hoop direction, for a total of 480 plies." ... "Manufacturing in a generous safety margin. The carbon fiber/epoxy hull of the Cyclops 2 features alternating layers of UD prepreg in the axial direction, and wet-wound carbon fiber filaments in the hoop direction. The hull is 127 mm thick (5 inches vs. the 6 inches planned for Fossett’s earlier craft) and has tested to 2.5 times the 6,500-psi service pressure." [Article](https://www.compositesworld.com/articles/composite-submersibles-under-pressure-in-deep-deep-waters)
 * Carbon fiber is standard-modulus Grafil 37-800 (30K tow), supplied by Mitsubishi Chemical Carbon Fiber & Composites Inc. (Irvine, CA, US). 
 * Prepreg was supplied by Irvine-based Newport Composites, now part of Mitsubishi Chemical Carbon Fiber & Composites Inc. The wet-winding epoxy is Epon Resin 682 from Hexion Inc. (Columbus, OH, US). 
 * The curing agent is Lindride LS-81K frLindau Chemicals Inc.cals (Columbia, SC, US).
@@ -94,7 +93,8 @@ This little repository of information is put together in the interest of helping
 ### External component controls
 * The "Birns Junction Box" (aka J-Box)
 * Birns 77-pin connectors used to connect signals throughout the hull.
-* [Instagram post](https://www.instagram.com/p/CAqPDrKJGCW/)
+  * [Instagram post](https://www.instagram.com/p/CAqPDrKJGCW/)
+  * "This Birns Junction Box (or J-Box for short) has been designs by our Engineering team to connect the brain of Titan to the external electrical components on the submersible. The J-box is named after the Birns 77-pin connector which is utilized to connect all the signals through the hull; the connector itself we named after the company who created it (BIRNS, Inc.). The unit acts like a mission control center, sending out necessary information for each party involved to opera..." (from Facebook post, now removed).
 
 ### Fire Safety
 * Pocket Smoke Mask by HKMASK Safety Ltd.
