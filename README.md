@@ -18,7 +18,7 @@ This little repository of information is put together in the interest of helping
   <td>Titanium Dome and Ring</td>
   <td>Acrylic Viewport</td>
   <td>Fairing</td>
-  <td>Hull</td>
+  <td><a href="https://ocean-archives.github.io/gallery-cf-hull.html">Carbon Fiber Hull</a></td>
   <td>Thrusters</td>
  </tr>
  <tr>
