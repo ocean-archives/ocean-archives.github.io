@@ -30,7 +30,7 @@ This little repository of information is put together in the interest of helping
  </tr>
  <tr>
   <td>J-Box</td>
-  <td>Control Pods</td>
+  <td><a href="https://ocean-archives.github.io/gallery-control-pods.html">Control Pods</a></td>
   <td>Hull Penetrator</td>
   <td>Batteries</td>
   <td>Nav / Comms</td>
