@@ -29,7 +29,7 @@ This little repository of information is put together in the interest of helping
   <td>Hull Insert</td>
  </tr>
  <tr>
-  <td><a href="https://ocean-archives.github.io/gallery-j-box.html">J-Box</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-j-box.html">Birns Junction Box (J-Box)</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-control-pods.html">Control Pods</a></td>
   <td>Hull Penetrator</td>
   <td>Batteries</td>
