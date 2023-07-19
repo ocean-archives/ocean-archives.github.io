@@ -24,7 +24,7 @@ This little repository of information is put together in the interest of helping
  <tr>
   <td>Oxygen & Scrubber Systems</td>
   <td>Displays & Monitors</td>
-  <td>Control Panel</td>
+  <td>SCADA/HMI Control Panel</td>
   <td>Ceiling Light</td>
   <td>Hull Insert</td>
  </tr>
