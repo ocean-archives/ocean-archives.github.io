@@ -45,6 +45,11 @@ This little repository of information is put together in the interest of helping
 </table>
 
 
+{% for page in site.pages %}
+    <a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
+
+
 ## Construction
 
 ### Hull
