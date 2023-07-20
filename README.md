@@ -8,7 +8,7 @@ This little repository of information is put together in the interest of helping
 ## Image Gallery (Coming Soon)
 <table>
   <tr>
-  <td><a href="https://ocean-archives.github.io/gallery-cad.html">CAD (OnShape, ShapeWorks) Files</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-cad.html">CAD (OnShape, SolidWorks) Files</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-internal-computers.html">Internal Computers</a></td>
   <td>External Camera Controls</td>
   <td>Operation Manuals</td>
