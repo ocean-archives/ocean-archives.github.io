@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 21:23 PT 19 July, 2023
+Last update: 23:48 PT 19 July, 2023
 
 ## Background
 ### Why make this?
@@ -74,6 +74,8 @@ This little repository of information is put together in the interest of helping
     * [Facebook post](https://www.facebook.com/jeccomposites/photos/a.353532834730096/2799682173448471/?type=3&paipv=0&eav=AfZ1k8CuEfwFfFNOA36okdSyPXodyhNefYtZFHzsuve_1gygIDJu0o1CJ-7B0-_JfF8&_rdr)
   * Machining done by Janicki Industries.
   * In a 2022 expedition video, it's claimed to be coated with Rhino Liner.
+  * Structural analysis by Collier Aerospace. ([Facebook Post](https://www.facebook.com/collieraerospace/posts/pfbid02ae7jxE1aaoY9gEEgJ1A3D6jybVxrDtTctWnbnUbMpFCxDLWSgoJfudBMUjUVCcEgl))
+    * "In July, 2021, OceanGate descended to the sunken remains of the #Titanic in its revolutionary carbon fiber and titanium submersible, Titan. Collier Aerospace had the opportunity to be a part of this groundbreaking expedition during the development of Titan's carbon fiber hull, which was designed with the help of our structural analysis and design software." 
 
 #### Titanium hemispheres (x2)
 * Made by Titanium Fabrication Corp
