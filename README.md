@@ -68,6 +68,7 @@ This little repository of information is put together in the interest of helping
 * 2021 Upgrades are made to the carbon fiber hull for Titanic Survey expedition in 2021
   * Carbon Fiber composite by ElectroImpact
     * [LinkedIn Post (Archived)](https://web.archive.org/web/20230624152949/https://www.linkedin.com/feed/update/urn:li:activity:7006648654967029761/)
+    * 667 plies [CBS Interview with Stockton Rush](https://www.cbsnews.com/news/titanic-submersible-interview-transcript-with-oceangate-ceo-stockton-rush/)
   * Manufactured using ElectroImpact's "AFP 4.0" process
     * [Whitepaper: "AFP 4.0" (Archived)](https://archive.is/UWOwf)
   * Prepreg CF by Toray Composite Materials America Inc
