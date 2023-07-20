@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 18:32 PT 19 July, 2023
+Last update: 21:23 PT 19 July, 2023
 
 ## Background
 ### Why make this?
@@ -228,7 +228,10 @@ This little repository of information is put together in the interest of helping
 
 * Misc Cabling
   * MacArtney SubConn connectors and cables. [Facebook Post](https://www.facebook.com/permalink.php?story_fbid=4291543250961322&id=151180704997618&paipv=0&eav=AfbPK7dWSq2pW-IFw-phZOUN5rjtMTCrWxBreinduXqrhGJctyUOunuNDi1TfL9WUtw&_rdr)   
-  
+
+* Power
+  * Jameco Dual Channel power supply. Model similar to [Jameco Product Page](https://www.jameco.com/z/HY3003D-2-R-Jameco-BenchPro-180W-Dual-Output-Benchtop-Power-Supply-30-Volt-3-Amps-per-Channel_211693.html)
+    * Unsure if this was ever on board the ship. It's seen a few times when the Titan is on land. May have just been used for testing.
 
 ### Mobility/Thruster Control
 * Logitech F710 Wireless Game Pad
