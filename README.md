@@ -104,6 +104,8 @@ This little repository of information is put together in the interest of helping
 * Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
 * Variable Ballast Tanks
   * Buoyancy bag located at the top of the Titan, straddling the pressure hull. [Instagram](https://www.instagram.com/p/B--ds_tls29/)
+* Drop weight controller
+  * Upgraded in 2021. [Instagram post (Removed)](https://www.instagram.com/p/CWYo5FhsS2Q/)
 
 #### Fairing
 * Glass fiber shell composite pieces for outer shell.
@@ -128,9 +130,6 @@ This little repository of information is put together in the interest of helping
   * [Facebook post (Removed)](https://www.facebook.com/OceanGateInc/videos/245982903111389) [(Archived Copy)](https://i.imgur.com/pTIbvpS.png)
   * "One of the many essential life support systems on a dive is a CO2 (carbon dioxide) scrubber. Our scrubbing system for Cyclops 1 and Titan contains soda lime. Soda lime are white granules that contain a mixture of calcium hydroxide (~75%) and sodium hydroxide (3%) with a precise amount of water moisture and binding agents. They absorb CO2 from the air via an exothermic, water facilitated, base catalyzed chemical reaction. The fans in our subs circulate air throughout the interior so all breathing air is consistently brought to the scrubber unit and cleaned of CO2."
 * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [Instagram post](https://www.instagram.com/p/Bdimnn-lwVl/)
-
-### Drop weight controller
-* Upgraded in 2021. [Instagram post (Removed)](https://www.instagram.com/p/CWYo5FhsS2Q/)
 
 ### External component controls
 * The "Birns Junction Box" (aka J-Box)
