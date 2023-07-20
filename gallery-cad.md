@@ -8,3 +8,11 @@
 ![](https://i.imgur.com/dhZNBu7.png)
 ![](https://i.imgur.com/szwOXJY.png)
 ![](https://i.imgur.com/RAG5b3Z.png)
+
+## Schematics
+
+### OceanGate Cyclops 1 (Not Cyclops 2 or Titan)
+
+I'm including this image because the Cyclops 1 and 2 have very similar layouts for control pods and thrusters. I hope that it contains hints for how the Titan is constructed.
+
+![](https://i.imgur.com/sCHvShk.jpg)
