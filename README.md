@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 16:07 PT 19 July, 2023
+Last update: 17:51 PT 19 July, 2023
 
 ## Background
 ### Why make this?
@@ -31,7 +31,7 @@ This little repository of information is put together in the interest of helping
  <tr>
   <td><a href="https://ocean-archives.github.io/gallery-j-box.html">Birns Junction Box (J-Box)</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-control-pods.html">Control Pods</a></td>
-  <td>Hull Penetrator</td>
+  <td><a href="https://ocean-archives.github.io/gallery-penetrator.html">Hull Penetrator</a></td>
   <td>Batteries</td>
   <td>Nav / Comms</td>
  </tr>
