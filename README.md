@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 18:09 PT 19 July, 2023
+Last update: 18:32 PT 19 July, 2023
 
 ## Background
 ### Why make this?
@@ -40,7 +40,7 @@ This little repository of information is put together in the interest of helping
   <td>Landing Frame & Syntactic Foam</td>
   <td>Ballast</td>
   <td>External Cameras</td>
-  <td>Real Time Monitoring System</td>
+  <td><a href="https://ocean-archives.github.io/gallery-real-time-monitoring.html">Real Time Monitoring System</a></td>
  </tr>
 </table>
 
