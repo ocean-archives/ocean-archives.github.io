@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 23:48 PT 19 July, 2023
+Last update: 01:25 PT 20 July, 2023
 
 ## Background
 ### Why make this?
@@ -130,7 +130,7 @@ This little repository of information is put together in the interest of helping
 * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [Instagram post](https://www.instagram.com/p/Bdimnn-lwVl/)
 
 ### Drop weight controller
-* [Instagram post](https://www.instagram.com/p/CWYo5FhsS2Q/)
+* Upgraded in 2021. [Instagram post (Removed)](https://www.instagram.com/p/CWYo5FhsS2Q/)
 
 ### External component controls
 * The "Birns Junction Box" (aka J-Box)
