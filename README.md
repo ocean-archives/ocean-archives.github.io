@@ -37,7 +37,7 @@ This little repository of information is put together in the interest of helping
  </tr>
  <tr>
   <td>Toilet</td>
-  <td>Landing Frame & Syntactic Foam</td>
+  <td><a href="https://ocean-archives.github.io/gallery-frame-foam.html">Frame & Syntactic Foam</a></td>
   <td>Ballast</td>
   <td>External Cameras</td>
   <td><a href="https://ocean-archives.github.io/gallery-real-time-monitoring.html">Real Time Monitoring System</a></td>
