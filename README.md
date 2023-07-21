@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 12:37 PT 21 July, 2023
+Last update: 13:23 PT 21 July, 2023
 
 ## Background
 ### Why make this?
@@ -45,7 +45,7 @@ This little repository of information is put together in the interest of helping
 </table>
 
 
-## Construction
+## OceanGate Titan Construction
 
 ### Hull
 
@@ -109,7 +109,8 @@ This little repository of information is put together in the interest of helping
   * Upgraded in 2021. [Instagram post (Removed)](https://www.instagram.com/p/CWYo5FhsS2Q/)
 
 #### Fairing
-* Glass fiber shell composite pieces for outer shell.
+* Glass fiber shell composite pieces for free-flooding outer shell.
+* Probably manufactured by Sunbacker. [Company portfolio](https://sunbacker.com/oceanographic/) [Archived](https://archive.is/yP5Bw)
 * Bolted to titanium rings.
 * Empty space is filled with blocks of syntactic foam.
 
@@ -129,6 +130,7 @@ This little repository of information is put together in the interest of helping
 * CO2 Scrubber
   * Utilizes soda lime, and/or SodaSorb.
   * "One of the many essential life support systems on a dive is a CO2 (carbon dioxide) scrubber. Our scrubbing system for Cyclops 1 and Titan contains soda lime. Soda lime are white granules that contain a mixture of calcium hydroxide (~75%) and sodium hydroxide (3%) with a precise amount of water moisture and binding agents. They absorb CO2 from the air via an exothermic, water facilitated, base catalyzed chemical reaction. The fans in our subs circulate air throughout the interior so all breathing air is consistently brought to the scrubber unit and cleaned of CO2." [Facebook post (Removed)](https://www.facebook.com/OceanGateInc/videos/245982903111389) [(Archived Copy)](https://i.imgur.com/pTIbvpS.png)
+    * A tupperware tub containing loose sodasorb with fan attached to a white lid can be seen when the aft panel is opened, and is also seen in the main sitting area of the vessel during an [interview](https://youtu.be/y9DuM_gzaOQ?t=30).
   * "So we have two systems. One is a thing called Sodasorb, which is calcium hydroxide. [...] If that system fails—'cause it does require a battery—we have lithium-hydroxide blankets, which are used in the mine industry mostly, and also in submersibles. And you just hang 'em, and they scrub the carbon dioxide just from ambient flow." [CBS Interview with Stockton Rush](https://www.cbsnews.com/news/titanic-submersible-interview-transcript-with-oceangate-ceo-stockton-rush/)
     * Curtains _might_ be referring to something like [ExtendAir® OM-0608K Curtains](https://www.microporeusa.com/mine-safety/).
 * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [Instagram post](https://www.instagram.com/p/Bdimnn-lwVl/)
@@ -258,6 +260,10 @@ This little repository of information is put together in the interest of helping
   * Unsure of exact model, but similar to these: [Product Page](https://www.generaloceanics.com/rov-niskin-bottles/)
   * May not have been deployed at time of incident, but has seen mounted to the starboard side of the Titan before.
   
+## OceanGate Launch and Recovery System (LARS) Construction
+* Aluminum platform manufactured by Everest Marine. [Article](https://www.geekwire.com/2018/oceangate-everest-marine-finish-construction-titanic-subs-launch-pad/)
+* 
+
 
 ## Development and Release Process
 * Onshape for product data management
