@@ -4,3 +4,4 @@
 
 ![](https://i.imgur.com/ovwXr9c.png)
 ![](https://i.imgur.com/VIK23Qi.png)
+![Photo by Becky Kagan Schott](https://i.imgur.com/9KXEN04.png)
