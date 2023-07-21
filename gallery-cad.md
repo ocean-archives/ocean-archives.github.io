@@ -8,6 +8,8 @@
 ![](https://i.imgur.com/dhZNBu7.png)
 ![](https://i.imgur.com/szwOXJY.png)
 ![](https://i.imgur.com/RAG5b3Z.png)
+![Diagram from interview with Bruce Morton](https://i.imgur.com/ATjCuUN.png)
+![](https://i.imgur.com/2aOesEe.png)
 
 ## Schematics
 
