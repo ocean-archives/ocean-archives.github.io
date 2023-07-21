@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 13:15 PT 20 July, 2023
+Last update: 18:41 PT 20 July, 2023
 
 ## Background
 ### Why make this?
@@ -230,7 +230,7 @@ This little repository of information is put together in the interest of helping
   * Seen in https://www.youtube.com/watch?v=uD5SUDFE6CA&t=1417s
 
 * Misc Cabling
-  * MacArtney SubConn connectors and cables. [Facebook Post](https://www.facebook.com/permalink.php?story_fbid=4291543250961322&id=151180704997618&paipv=0&eav=AfbPK7dWSq2pW-IFw-phZOUN5rjtMTCrWxBreinduXqrhGJctyUOunuNDi1TfL9WUtw&_rdr)   
+  * MacArtney SubConn connectors and cables. [Facebook Post](https://www.facebook.com/permalink.php?story_fbid=4291543250961322&id=151180704997618&paipv=0&eav=AfbPK7dWSq2pW-IFw-phZOUN5rjtMTCrWxBreinduXqrhGJctyUOunuNDi1TfL9WUtw&_rdr)  
 
 * Power
   * Jameco Dual Channel power supply. Model similar to [Jameco Product Page](https://www.jameco.com/z/HY3003D-2-R-Jameco-BenchPro-180W-Dual-Output-Benchtop-Power-Supply-30-Volt-3-Amps-per-Channel_211693.html)
@@ -251,7 +251,13 @@ This little repository of information is put together in the interest of helping
 * 2G Robotics Dynamic Underwater Laser Scanner (ULS-500 PRO)
   * Now called the "Insight Pro".
   * "The Insight Pro is a long-range laser scanner designed for 3D modelling over large areas from dynamic and static platforms. Its proven design has been deployed since 2013 and has modelled over 10,000 km of subsea pipelines, seabed and subsea structures. Insight Pro has been integrated into countless AUVs and ROVs, including a control interface compatible with most standard vehicle navigation systems. Real-time data processing allows for the development of machine learning applications such as fault detection and pipeline tracking"
-  * [Product page](https://www.subsea-tech.com/2g-robotics/) 
+  * [Product page](https://www.subsea-tech.com/2g-robotics/)
+ 
+### Sampling
+* General Oceanics Water Sampler
+  * Unsure of exact model, but similar to these: [Product Page](https://www.generaloceanics.com/rov-niskin-bottles/)
+  * May not have been deployed at time of incident, but has seen mounted to the starboard side of the Titan before.
+  
 
 ## Development and Release Process
 * Onshape for product data management
