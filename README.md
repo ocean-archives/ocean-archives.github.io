@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 13:23 PT 21 July, 2023
+Last update: 13:41 PT 21 July, 2023
 
 ## Background
 ### Why make this?
@@ -100,13 +100,16 @@ This little repository of information is put together in the interest of helping
   * [Video](https://youtu.be/nIQxssTuWCw?t=810)
 
 #### Ballast System
-* Ballast control include pneumatic failsafe.
+* Ballast control include pneumatic and hand-pump failsafes.
 * Ballast also releases if occupants rock the ship, or, a pneumatic pump can be activated to knock the weights free.
 * Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
-* Variable Ballast Tanks
-  * Buoyancy bag located at the top of the Titan, straddling the pressure hull. [Instagram](https://www.instagram.com/p/B--ds_tls29/)
 * Drop weight controller
   * Upgraded in 2021. [Instagram post (Removed)](https://www.instagram.com/p/CWYo5FhsS2Q/)
+  * Weight dropped by actuator.
+* Variable Ballast Tanks
+  * Designed to be used if the actuator fails.
+  * Buoyancy bag located at the top of the Titan, straddling the pressure hull. [Instagram](https://www.instagram.com/p/B--ds_tls29/)
+  * The bag is inflated by a black high pressure tank located in the tail. [Explanation on Youtube](https://youtu.be/uD5SUDFE6CA?t=1249)
 
 #### Fairing
 * Glass fiber shell composite pieces for free-flooding outer shell.
@@ -262,7 +265,6 @@ This little repository of information is put together in the interest of helping
   
 ## OceanGate Launch and Recovery System (LARS) Construction
 * Aluminum platform manufactured by Everest Marine. [Article](https://www.geekwire.com/2018/oceangate-everest-marine-finish-construction-titanic-subs-launch-pad/)
-* 
 
 
 ## Development and Release Process
