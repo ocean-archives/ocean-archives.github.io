@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 18:41 PT 20 July, 2023
+Last update: 12:37 PT 21 July, 2023
 
 ## Background
 ### Why make this?
@@ -345,9 +345,9 @@ All times are noted in GMT.
 ## Author
 
 Repository is created and maintained by Aya Walraven, ayalan@gmail.com. 
-__I am not an expert in submersibles, and greatly appreciate your corrections or any volunteer help in maintaining the information in this page.__
+Disclimar: __I am not affiliated with OceanGate or any of its partners, nor am I an expert in submersibles! I greatly appreciate the corrections sent my way or volunteer help in maintaining the information in this page.__
 
-### Contributors
+### Other Contributors
 * Nayuki
 * 299WF
 * [tricoos](https://github.com/tricoos)
