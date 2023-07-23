@@ -117,7 +117,7 @@ This little repository of information is put together in the interest of helping
 * Bolted to titanium rings.
 * Empty space is filled with blocks of syntactic foam.
 
-## On-board systems at the time of the incident
+## Systems at the time of the incident
 ### Power
 * Ictineu Pressure-tolerant Li-Po Battery
   * [Instagram post](https://www.instagram.com/p/Bgo79HIFCWn/)
@@ -130,13 +130,18 @@ This little repository of information is put together in the interest of helping
 ### Life Support 
 * 96 hours for a crew of 5
 * Equipment unknown
+* Oxygen Supply
+  * At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [Instagram post](https://www.instagram.com/p/Bdimnn-lwVl/)
 * CO2 Scrubber
   * Utilizes soda lime, and/or SodaSorb.
   * "One of the many essential life support systems on a dive is a CO2 (carbon dioxide) scrubber. Our scrubbing system for Cyclops 1 and Titan contains soda lime. Soda lime are white granules that contain a mixture of calcium hydroxide (~75%) and sodium hydroxide (3%) with a precise amount of water moisture and binding agents. They absorb CO2 from the air via an exothermic, water facilitated, base catalyzed chemical reaction. The fans in our subs circulate air throughout the interior so all breathing air is consistently brought to the scrubber unit and cleaned of CO2." [Facebook post (Removed)](https://www.facebook.com/OceanGateInc/videos/245982903111389) [(Archived Copy)](https://i.imgur.com/pTIbvpS.png)
     * A tupperware tub containing loose sodasorb with fan mounted to a lid can be seen when the aft panel is opened, and is also seen in the main sitting area of the vessel during an [interview](https://youtu.be/y9DuM_gzaOQ?t=30).
   * "So we have two systems. One is a thing called Sodasorb, which is calcium hydroxide. [...] If that system fails—'cause it does require a battery—we have lithium-hydroxide blankets, which are used in the mine industry mostly, and also in submersibles. And you just hang 'em, and they scrub the carbon dioxide just from ambient flow." [CBS Interview with Stockton Rush](https://www.cbsnews.com/news/titanic-submersible-interview-transcript-with-oceangate-ceo-stockton-rush/)
     * Curtains _might_ be referring to something like [ExtendAir® OM-0608K Curtains](https://www.microporeusa.com/mine-safety/).
-* At least 4 cylinders of what appear to be oxygen (green tanks) running parallel to the hull under the floor platform. This may or may not be part of the life support system. [Instagram post](https://www.instagram.com/p/Bdimnn-lwVl/)
+* Air Sensors
+  * Exact model or implementation unknown. A previous OceanGate engineer has said that there are sensors for O2, CO2, pressure, temperature, and humidity. 
+* Water Sensors
+  * Exact model or implementation unknown.
 
 ### External component controls
 * The "Birns Junction Box" (aka J-Box)
