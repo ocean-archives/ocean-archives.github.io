@@ -16,7 +16,7 @@ This little repository of information is put together in the interest of helping
  </tr>
  <tr>
   <td><a href="https://ocean-archives.github.io/gallery-dome-ring.html">Titanium Dome, Ring, Acrylic Viewport</a></td>
-  <td>Junction Boxes</td>
+  <td>-</td>
   <td>Fairing</td>
   <td><a href="https://ocean-archives.github.io/gallery-cf-hull.html">Carbon Fiber Hull</a></td>
   <td>Thrusters</td>
@@ -30,7 +30,7 @@ This little repository of information is put together in the interest of helping
  </tr>
  <tr>
   <td><a href="https://ocean-archives.github.io/gallery-j-box.html">Birns Junction Box (J-Box)</a></td>
-  <td><a href="https://ocean-archives.github.io/gallery-control-pods.html">Control Pods</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-control-pods.html">Spherical Control Pods</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-penetrator.html">Hull Penetrator</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-battery.html">Batteries & Power</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-nav-comms.html">Nav & Comms</a></td>
