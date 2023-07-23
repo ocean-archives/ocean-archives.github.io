@@ -289,7 +289,7 @@ This section has been moved to [a new page](https://ocean-archives.github.io/tim
 ## Author
 
 Repository is created and maintained by Aya Walraven, ayalan@gmail.com. 
-Disclimar: __I am not affiliated with OceanGate or any of its partners, nor am I an expert in submersibles! I greatly appreciate the corrections sent my way or volunteer help in maintaining the information in this page.__
+Disclaimer: __I am not affiliated with OceanGate or any of its partners, nor am I an expert in submersibles! I greatly appreciate the corrections sent my way or volunteer help in maintaining the information in this page. The contents of this page are accurate to the best of my knowledge, but there may be inaccuracies. Some equipment listed may have been in use at one time but were not in use at the time of the incident.__
 
 ### Other Contributors
 * Nayuki
