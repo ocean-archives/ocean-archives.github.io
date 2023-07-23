@@ -285,18 +285,21 @@ This section has been moved to [a new page](https://ocean-archives.github.io/tim
 * [Marine transportation safety investigation M23A0169](https://www.tsb.gc.ca/eng/enquetes-investigations/marine/2023/m23a0169/m23a0169.html)
 
 ------------------
+## Disclaimer
+
+__I am not affiliated with OceanGate or any of its partners, nor am I an expert in submersibles! I greatly appreciate the corrections sent my way or volunteer help in maintaining the information in this page. The contents of this page are accurate to the best of my knowledge, but there may be inaccuracies. Some equipment listed may have been in use at one time but were not in use at the time of the incident.__
 
 ## Author
 
 Repository is created and maintained by Aya Walraven, ayalan@gmail.com. 
-Disclaimer: __I am not affiliated with OceanGate or any of its partners, nor am I an expert in submersibles! I greatly appreciate the corrections sent my way or volunteer help in maintaining the information in this page. The contents of this page are accurate to the best of my knowledge, but there may be inaccuracies. Some equipment listed may have been in use at one time but were not in use at the time of the incident.__
 
 ### Other Contributors
 * Nayuki
 * 299WF
 * [tricoos](https://github.com/tricoos)
 
-[Change Log](https://github.com/ocean-archives/ocean-archives.github.io/commits/main/README.md)
+## Page Change Log
+* [Change Log](https://github.com/ocean-archives/ocean-archives.github.io/commits/main/README.md)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W5PZZJPTKX"></script>
