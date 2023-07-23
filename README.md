@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 23:47 PT 21 July, 2023
+Last update: 11:29 PT 23 July, 2023
 
 ## Background
 ### Why make this?
@@ -89,7 +89,7 @@ This little repository of information is put together in the interest of helping
 * Assembly: [Video](https://www.youtube.com/watch?v=WK99kBS1AfE)
 * Titanium rings had at least 2 hull penetrators
   * Penetrators fitted by ports for MacArtney SubConn ethernet and (unconfirmed) coaxial cabling
-  * Connectors have SubConn locked sleeves 
+    * At least one penetrator is fitted with the SubConn DBH13F Power Ethernet 13-pin circular connector  
 
 #### Viewport
 * 380-mm-diameter (21”) acrylic viewport
