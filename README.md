@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 11:29 PT 23 July, 2023
+Last update: 11:50 PT 23 July, 2023
 
 ## Background
 ### Why make this?
@@ -15,8 +15,8 @@ This little repository of information is put together in the interest of helping
   <td><a href="https://ocean-archives.github.io/gallery-iron-sub.html">Iron Sub</a></td>
  </tr>
  <tr>
-  <td><a href="https://ocean-archives.github.io/gallery-dome-ring.html">Titanium Dome and Ring</a></td>
-  <td><a href="https://ocean-archives.github.io/gallery-viewport.html">Acrylic Viewport</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-dome-ring.html">Titanium Dome, Ring, Acrylic Viewport</a></td>
+  <td>Junction Boxes</td>
   <td>Fairing</td>
   <td><a href="https://ocean-archives.github.io/gallery-cf-hull.html">Carbon Fiber Hull</a></td>
   <td>Thrusters</td>
