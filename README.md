@@ -15,8 +15,8 @@ This little repository of information is put together in the interest of helping
   <td><a href="https://ocean-archives.github.io/gallery-iron-sub.html">Iron Sub</a></td>
  </tr>
  <tr>
-  <td>Titanium Dome and Ring</td>
-  <td>Acrylic Viewport</td>
+  <td><a href="https://ocean-archives.github.io/gallery-dome-ring.html">Titanium Dome and Ring</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-viewport.html">Acrylic Viewport</a></td>
   <td>Fairing</td>
   <td><a href="https://ocean-archives.github.io/gallery-cf-hull.html">Carbon Fiber Hull</a></td>
   <td>Thrusters</td>
