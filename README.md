@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 12:12 PT 23 July, 2023
+Last update: 19:07 PT 23 July, 2023
 
 ## Background
 ### Why make this?
@@ -190,7 +190,9 @@ This little repository of information is put together in the interest of helping
   * Attached to Uniden BC9xx model Wireless Microphone
 
 #### (Unconfirmed) Tracking transducer
-* Kongsberg ?? Source: [https://youtu.be/RAncVNaw5N0?t=407](https://youtu.be/RAncVNaw5N0?t=407)
+* Kongsberg mentioned in [https://youtu.be/RAncVNaw5N0?t=407](https://youtu.be/RAncVNaw5N0?t=407)
+  * Also pictured in a 2019 dive of the Titan in the Bahamas. [Angari Expedition page](https://angari.org/expedition-24/)
+  * Not sure if also included on the dive of the 2023 incident.
 
 #### USBL
 * Removed at time of incident
