@@ -5,6 +5,7 @@
 ### Bow Acrylic Viewport
 ![](https://i.imgur.com/i2ae28P.png)
 ![](https://i.imgur.com/SNyMeZp.png)
+![](https://i.imgur.com/wUYSJNK.png)
 
 ### Bow Titanium Dome and Titanium Ring
 ![](https://i.imgur.com/86c1IOX.png)
