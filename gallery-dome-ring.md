@@ -8,6 +8,7 @@
 ![](https://i.imgur.com/wUYSJNK.png)
 
 ### Bow Titanium Dome and Titanium Ring
+![](https://i.imgur.com/W7dEjMW.png)
 ![](https://i.imgur.com/86c1IOX.png)
 ![](https://i.imgur.com/zTAbqYL.png)
 ![](https://i.imgur.com/LbOKLnl.png)
