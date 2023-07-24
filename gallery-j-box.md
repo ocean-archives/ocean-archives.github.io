@@ -2,6 +2,7 @@
 
 ## J-Box (Birns Junction Box)
 
+![](https://i.imgur.com/Iq9gYPE.jpg)
 ![](https://i.imgur.com/YSW0mZ5.jpg)
 ![](https://i.imgur.com/8IwK8Yf.png)
 ![](https://i.imgur.com/RAG5b3Z.png)
