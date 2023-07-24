@@ -28,7 +28,7 @@ This little repository of information is put together in the interest of helping
  <tr>
   <td><a href="https://ocean-archives.github.io/gallery-j-box.html">Birns Junction Box (J-Box)</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-control-pods.html">Spherical Control Pods</a></td>
-  <td><a href="https://ocean-archives.github.io/gallery-penetrator.html">Hull Penetrator</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-penetrator.html">Hull Penetrators</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-battery.html">Batteries & Power</a></td>
  </tr>
  <tr>
