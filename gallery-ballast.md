@@ -5,6 +5,8 @@
 ![](https://i.imgur.com/LATr0tz.jpg)
 ![](https://i.imgur.com/ZiGdNOW.jpg)
 ![](https://i.imgur.com/oqwdSp6.png)
+![](https://i.imgur.com/ip3Fnsz.png)
+![](https://i.imgur.com/RYIfkz8.png)
 
 
 ### Internal Controls
