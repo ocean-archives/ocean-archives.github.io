@@ -5,7 +5,7 @@ Last update: 01:38 PT 24 July, 2023
 ### Why make this?
 This little repository of information is put together in the interest of helping retrospective analysis of the 2023 OceanGate Titan incident. The scope of information here is intended to only extend to mechanical, logistical, and operational points of data. I will do my best to include only the information that is confirmed, and any unconfirmed or rumour-basis information will be tagged as "Unconfirmed" to the best of my ability.
 
-## Image Gallery
+## Image Gallery (Work in Progress)
 <table>
   <tr>
   <td><a href="https://ocean-archives.github.io/gallery-cad.html">CAD (OnShape, SolidWorks) Files</a></td>
@@ -34,7 +34,7 @@ This little repository of information is put together in the interest of helping
  <tr>
   <td><a href="https://ocean-archives.github.io/gallery-frame-foam.html">Frame & Syntactic Foam</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-ballast.html">Ballast</a></td>
-  <td>External Cameras</td>
+  <td><a href="https://ocean-archives.github.io/gallery-camera-systems.html">Camera Systems</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-real-time-monitoring.html">Real Time Monitoring System</a></td>
  </tr>
 </table>
