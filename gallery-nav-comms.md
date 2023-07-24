@@ -2,5 +2,14 @@
 
 ## Navigation and Comms Systems
 
-## Comms
+### Sonardyne
+
 ![](https://i.imgur.com/qutmfxX.png)
+
+### Teledyne 
+
+![](https://i.imgur.com/fCSbsaF.png)
+
+### Other
+
+![](https://i.imgur.com/sa3nT3r.jpg)
