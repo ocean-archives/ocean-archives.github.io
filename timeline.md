@@ -3,6 +3,7 @@
 ### 2018
 * Scheduled expedition cancelled
 * 10 December, 2018 - Depth 13,00 feet. Bahamas. Solo dive with Stockton Rush. [Instagram post](https://www.instagram.com/p/CAf-QkdBfiN/)
+  * Bahamas validation dives are conducted with the dive support of Aalbu Brothers [Aalbu Brothers website (Archived)](https://web.archive.org/web/20220521101831/https://www.aalbubrothers.com/testing-submarine-to-13123-feet/)
 
 ### 2019
 * 12 April, 2019 - Tow test and buoyancy check in Bahamas. [Facebook post](https://www.facebook.com/OceanGateExped/videos/241434440028838/?__tn__=%2CO-R)
