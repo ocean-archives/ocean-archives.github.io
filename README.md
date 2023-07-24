@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 19:07 PT 23 July, 2023
+Last update: 01:01 PT 24 July, 2023
 
 ## Background
 ### Why make this?
@@ -38,7 +38,7 @@ This little repository of information is put together in the interest of helping
  <tr>
   <td>Toilet</td>
   <td><a href="https://ocean-archives.github.io/gallery-frame-foam.html">Frame & Syntactic Foam</a></td>
-  <td>Ballast</td>
+  <td><a href="https://ocean-archives.github.io/gallery-ballast.html">Ballast</a></td>
   <td>External Cameras</td>
   <td><a href="https://ocean-archives.github.io/gallery-real-time-monitoring.html">Real Time Monitoring System</a></td>
  </tr>
