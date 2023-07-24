@@ -14,3 +14,6 @@
 ![](https://i.imgur.com/s6m87E1.png)
 
 ### Aft Titanium Dome and Titanium Ring
+
+### Unsure which side dome
+![](https://i.imgur.com/392U7Vw.jpg)
