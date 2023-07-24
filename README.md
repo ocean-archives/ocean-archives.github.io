@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 01:01 PT 24 July, 2023
+Last update: 01:38 PT 24 July, 2023
 
 ## Background
 ### Why make this?
@@ -19,7 +19,7 @@ This little repository of information is put together in the interest of helping
   <td>-</td>
   <td>Fairing</td>
   <td><a href="https://ocean-archives.github.io/gallery-cf-hull.html">Carbon Fiber Hull</a></td>
-  <td>Thrusters</td>
+  <td><a href="https://ocean-archives.github.io/gallery-thrusters.html">Thrusters</a></td>
  </tr>
  <tr>
   <td><a href="https://ocean-archives.github.io/gallery-life-support.html">Oxygen & Scrubber Systems</a></td>
