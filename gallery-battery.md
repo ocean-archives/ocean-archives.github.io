@@ -2,6 +2,8 @@
 
 ## Batteries & Power
 
+![](https://i.imgur.com/0j6ZKmL.png)
+![](https://i.imgur.com/voILxIB.jpg)
 ![](https://i.imgur.com/ovwXr9c.png)
 ![](https://i.imgur.com/9KXEN04.png)
 ![](https://i.imgur.com/pdJtbLj.png)
