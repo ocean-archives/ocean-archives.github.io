@@ -5,6 +5,10 @@ Last update: 01:38 PT 24 July, 2023
 ### Why make this?
 This little repository of information is put together in the interest of helping retrospective analysis of the 2023 OceanGate Titan incident. The scope of information here is intended to only extend to mechanical, logistical, and operational points of data. I will do my best to include only the information that is confirmed, and any unconfirmed or rumour-basis information will be tagged as "Unconfirmed" to the best of my ability.
 
+## Disclaimer
+
+__I am not affiliated with OceanGate or any of its partners, nor am I an expert in submersibles! I greatly appreciate the corrections sent my way or volunteer help in maintaining the information in this page. The contents of this page are accurate to the best of my knowledge, but there may be inaccuracies. The Titan was a frequently changing submersible. Some equipment or methods listed may have been in use at one time but may not have been not in use at the time of the incident.__
+
 ## Image Gallery (Work in Progress)
 <table>
   <tr>
@@ -60,7 +64,7 @@ This little repository of information is put together in the interest of helping
   * Material is unknown
 
 #### Version 2
-* 2021 Upgrades are made to the carbon fiber hull for Titanic Survey expedition in 2021
+* 2020 Upgrades are made to the carbon fiber hull for Titanic Survey expedition in 2021
   * Carbon Fiber composite by ElectroImpact
     * [LinkedIn Post (Archived)](https://web.archive.org/web/20230624152949/https://www.linkedin.com/feed/update/urn:li:activity:7006648654967029761/)
     * 667 plies [CBS Interview with Stockton Rush](https://www.cbsnews.com/news/titanic-submersible-interview-transcript-with-oceangate-ceo-stockton-rush/)
@@ -91,6 +95,7 @@ This little repository of information is put together in the interest of helping
 * ~~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~~
 * Fabricated by Hydrospace Group, though listed as 23" dome. Possibly indicator that two domes have been used. [Facebook post](https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R)
 * Manufactured and fitted in 2017, making this viewport likely the same viewport reviewed by David Lochridge in 2018.
+* The original dome port may have been replaced at the time of the 2020 hull upgrade.
 * In a review of the 2021 Titanic expedition, Stockton claims that the viewport is concave so a viewer could put their head inside it. This seems to conflict with pictures of the Hydrospace viewport which has a flat inner surface.
   * [Video](https://youtu.be/nIQxssTuWCw?t=810)
 
@@ -100,6 +105,7 @@ This little repository of information is put together in the interest of helping
 * Lines securing the ballasts are designed to fall apart after 24 hours to automatically surface the sub.
 * Drop weight controller
   * Upgraded in 2021. [Instagram post (Removed)](https://www.instagram.com/p/CWYo5FhsS2Q/)
+    * This upgrade may coincide with the addition of steel shot bags as drop weights and moving the steel pipes out of the drop tray to the Titan's sides instead. 
   * Weight dropped by actuator.
 * Variable Ballast Tanks
   * Designed to be used if the actuator fails.
@@ -282,13 +288,10 @@ This section has been moved to [a new page](https://ocean-archives.github.io/tim
 * [Marine transportation safety investigation M23A0169](https://www.tsb.gc.ca/eng/enquetes-investigations/marine/2023/m23a0169/m23a0169.html)
 
 ------------------
-## Disclaimer
-
-__I am not affiliated with OceanGate or any of its partners, nor am I an expert in submersibles! I greatly appreciate the corrections sent my way or volunteer help in maintaining the information in this page. The contents of this page are accurate to the best of my knowledge, but there may be inaccuracies. Some equipment listed may have been in use at one time but were not in use at the time of the incident.__
 
 ## Author
 
-Repository is created and maintained by Aya Walraven, ayalan@gmail.com. 
+Repository is created and maintained by A. Walraven, ayalan@gmail.com. 
 
 ### Other Contributors
 * Nayuki
