@@ -2,6 +2,7 @@
 
 ## Control Pods
 
+![](https://i.imgur.com/WkAbWMc.png)
 ![](https://i.imgur.com/oqwdSp6.png)
 ![](https://i.imgur.com/9gfhfqm.png)
 ![](https://i.imgur.com/rM1FTGI.jpg)
