@@ -10,13 +10,11 @@ This little repository of information is put together in the interest of helping
   <tr>
   <td><a href="https://ocean-archives.github.io/gallery-cad.html">CAD (OnShape, SolidWorks) Files</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-internal-computers.html">Internal Computers</a></td>
-  <td>External Camera Controls</td>
-  <td>Operation Manuals</td>
   <td><a href="https://ocean-archives.github.io/gallery-iron-sub.html">Iron Sub</a></td>
+  <td><a href="https://ocean-archives.github.io/gallery-nav-comms.html">Nav & Comms</a></td>
  </tr>
  <tr>
   <td><a href="https://ocean-archives.github.io/gallery-dome-ring.html">Titanium Dome, Ring, Acrylic Viewport</a></td>
-  <td>-</td>
   <td>Fairing</td>
   <td><a href="https://ocean-archives.github.io/gallery-cf-hull.html">Carbon Fiber Hull</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-thrusters.html">Thrusters</a></td>
@@ -25,7 +23,6 @@ This little repository of information is put together in the interest of helping
   <td><a href="https://ocean-archives.github.io/gallery-life-support.html">Oxygen & Scrubber Systems</a></td>
   <td>Displays & Monitors</td>
   <td><a href="https://ocean-archives.github.io/gallery-hmi.html">SCADA/HMI Control Panel</a></td>
-  <td>Ceiling Light</td>
   <td>Hull Insert</td>
  </tr>
  <tr>
@@ -33,10 +30,8 @@ This little repository of information is put together in the interest of helping
   <td><a href="https://ocean-archives.github.io/gallery-control-pods.html">Spherical Control Pods</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-penetrator.html">Hull Penetrator</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-battery.html">Batteries & Power</a></td>
-  <td><a href="https://ocean-archives.github.io/gallery-nav-comms.html">Nav & Comms</a></td>
  </tr>
  <tr>
-  <td>Toilet</td>
   <td><a href="https://ocean-archives.github.io/gallery-frame-foam.html">Frame & Syntactic Foam</a></td>
   <td><a href="https://ocean-archives.github.io/gallery-ballast.html">Ballast</a></td>
   <td>External Cameras</td>
