@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 01:38 PT 24 July, 2023
+Last update: 00:16 PT 26 July, 2023
 
 ## Background
 ### Why make this?
@@ -95,8 +95,8 @@ __I am not affiliated with OceanGate or any of its partners, nor am I an expert 
 * ~~Manufacturer unknown, but possibly Heinz Fritz, which supplied the acrylic dome of the Cyclops I [https://www.instagram.com/p/B_08tfmHb56/](https://www.instagram.com/p/B_08tfmHb56/)~~
 * Fabricated by Hydrospace Group, though listed as 23" dome. Possibly indicator that two domes have been used. [Facebook post](https://www.facebook.com/OceanGateInc/posts/pfbid031t4h6E88fjU3NP5DLq7mZM3RG6Y7RPPnsp12kGHhacuSakTUicHzgNKtYGUckEv5l?__cft__[0]=AZXEPHTiC6StJRnuULAi0qr3uQj0MS0JeFwcdexD-o5FzEzrpXQUPDbwJK_tCJ6_ITDu_14CRsAHhAjHRNKj2m6I9qHGg6EBd1DHc-6RQNnwJny84_km24GjCT5A8wRjEZw&__tn__=%2CO%2CP-R)
 * Manufactured and fitted in 2017, making this viewport likely the same viewport reviewed by David Lochridge in 2018.
-* The original dome port may have been replaced at the time of the 2020 hull upgrade.
-* In a review of the 2021 Titanic expedition, Stockton claims that the viewport is concave so a viewer could put their head inside it. This seems to conflict with pictures of the Hydrospace viewport which has a flat inner surface.
+* The original viewport may have been replaced at the time of the 2020 hull upgrade.
+* (Unconfirmed) In a review of the 2021 Titanic expedition, Stockton claims that the viewport is concave so a viewer could put their head inside it. This seems to conflict with pictures of the Hydrospace viewport which has a flat inner surface? 
   * [Video](https://youtu.be/nIQxssTuWCw?t=810)
 
 #### Ballast System
