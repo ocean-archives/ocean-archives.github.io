@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 00:30 PT 29 July, 2023
+Last update: 02:00 PT 29 July, 2023
 
 ## Background
 ### Why make this?
@@ -143,7 +143,7 @@ __I am not affiliated with OceanGate or any of its partners, nor am I an expert 
   * "One of the many essential life support systems on a dive is a CO2 (carbon dioxide) scrubber. Our scrubbing system for Cyclops 1 and Titan contains soda lime. Soda lime are white granules that contain a mixture of calcium hydroxide (~75%) and sodium hydroxide (3%) with a precise amount of water moisture and binding agents. They absorb CO2 from the air via an exothermic, water facilitated, base catalyzed chemical reaction. The fans in our subs circulate air throughout the interior so all breathing air is consistently brought to the scrubber unit and cleaned of CO2." [Facebook post (Removed)](https://www.facebook.com/OceanGateInc/videos/245982903111389) [(Archived Copy)](https://i.imgur.com/pTIbvpS.png)
     * A tupperware tub containing loose sodasorb with fan mounted to a lid can be seen when the aft panel is opened, and is also seen in the main sitting area of the vessel during an [interview](https://youtu.be/y9DuM_gzaOQ?t=30).
   * "So we have two systems. One is a thing called Sodasorb, which is calcium hydroxide. [...] If that system fails—'cause it does require a battery—we have lithium-hydroxide blankets, which are used in the mine industry mostly, and also in submersibles. And you just hang 'em, and they scrub the carbon dioxide just from ambient flow." [CBS Interview with Stockton Rush](https://www.cbsnews.com/news/titanic-submersible-interview-transcript-with-oceangate-ceo-stockton-rush/)
-    * Curtains _might_ be referring to something like [ExtendAir® OM-0608K Curtains](https://www.microporeusa.com/mine-safety/).
+    * Curtains are likely [ExtendAir® OM-0608K Curtains](https://www.microporeusa.com/mine-safety/) or similar model. The metal container is seen in some photos, and what appears to be the metallic bag without metal container is seen in others.
 * Air Sensors
   * Exact model or implementation unknown. A previous OceanGate engineer has said that there are sensors for O2, CO2, pressure, temperature, and humidity. 
 * Water Sensors
