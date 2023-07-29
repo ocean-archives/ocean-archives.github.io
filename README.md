@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 21:55 PT 28 July, 2023
+Last update: 00:30 PT 29 July, 2023
 
 ## Background
 ### Why make this?
@@ -115,6 +115,7 @@ __I am not affiliated with OceanGate or any of its partners, nor am I an expert 
   * Designed to be used if the actuator fails.
   * Buoyancy bag located at the top of the Titan, straddling the pressure hull. [Instagram](https://www.instagram.com/p/B--ds_tls29/)
   * The bag is inflated by a black high pressure tank located in the tail. [Explanation on Youtube](https://youtu.be/uD5SUDFE6CA?t=1249)
+* Valves for drop cylinder weight and HPA tank are made by Autoclave Engineers.
 
 #### Fairing
 * Glass fiber shell composite pieces for free-flooding outer shell.
