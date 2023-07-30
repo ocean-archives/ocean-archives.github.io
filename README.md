@@ -258,11 +258,12 @@ __I am not affiliated with OceanGate or any of its partners, nor am I an expert 
 * Logitech F710 Wireless Game Pad
 
 ### External Lighting
-* 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output 
+* 6 Deep Sea Power & Lights LED Sealites, 60,000 lumens total output
+  * SubC Imaging Aquorea LEDs
 
 ### External Cameras
-* SubC Imaging iCam Rayfin
-* 4K camera
+* SubC Imaging iCam Rayfin 4K camera
+  * Includes built-in depth, tilt and roll sensors, and can store NMEA sensor data.
 * 3 AXIS cameras [AXIS F34 Network Camera](https://www.axis.com/products/axis-f34-surveillance-system/support) - one on IP 192.168.0.90
 
 ### Scanner
