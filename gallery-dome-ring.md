@@ -13,6 +13,7 @@
 ![](https://i.imgur.com/zTAbqYL.png)
 ![](https://i.imgur.com/LbOKLnl.png)
 ![](https://i.imgur.com/s6m87E1.png)
+![](https://i.imgur.com/ityLb03.png)
 
 ### Aft Titanium Dome and Titanium Ring
 
