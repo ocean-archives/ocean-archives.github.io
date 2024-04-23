@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
-Last update: 23:40 PT 2 August, 2023
+Last update: 19:08 PT 22 April, 2024
 
 ## Background
 ### Why make this?
@@ -274,7 +274,7 @@ __I am not affiliated with OceanGate or any of its partners, nor am I an expert 
  
 ### Sampling
 * General Oceanics Water Sampler
-  * Unsure of exact model, but similar to these: [Product Page](https://www.generaloceanics.com/rov-niskin-bottles/)
+  * Unsure of exact model, but similar to these: [Product Page](https://www.generaloceanics.com/research-equipment/water-sampling/water-sampling-bottles/rov-niskin-bottles.html)
   * May not have been deployed at time of incident, but has seen mounted to the starboard side of the Titan before.
   
 ## OceanGate Launch and Recovery System (LARS) Construction
