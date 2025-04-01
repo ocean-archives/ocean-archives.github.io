@@ -1,5 +1,6 @@
 <img src="https://repository-images.githubusercontent.com/657862402/5af48b86-b724-4ed3-b4d6-9656bed5eb0f" style="width: 100%; max-width:1000px; height: auto;">
 Last update: 9:32 PT 25 April, 2024
+I am no longer updating this document.
 
 ## Background
 ### Why make this?
@@ -296,17 +297,10 @@ This section has been moved to [a new page](https://ocean-archives.github.io/tim
 
 ------------------
 
-## Author
-
-Repository is created and maintained by A. Walraven, ayalan@gmail.com. 
-
-### Other Contributors
+### Contributors
 * Nayuki
 * 299WF
 * [tricoos](https://github.com/tricoos)
-
-## Page Change Log
-* [Change Log](https://github.com/ocean-archives/ocean-archives.github.io/commits/main/README.md)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W5PZZJPTKX"></script>
